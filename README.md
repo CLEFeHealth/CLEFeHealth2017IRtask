@@ -15,5 +15,10 @@ All tasks use the 2016 topics, with the aim to acquire more relevance assessment
 ## Organisation of the repository
 
 `assessments` - contains the assessments of relevance and other dimensions (e.g. understandability) for the documents
+  
   `-> 2016` - contains the assessments for the 2016 submissions. Note that in 2017, documents assessed (either relevant or not relevant) are to be excluded from participants submissions
+  
+  `-> 2017` - will contain the assessments for the 2017 submissions. 
+  
+`queries` - contains the queries to be used for the tasks. These are the 2016 queries. Note that we have also provided the URL of the web forum we used to initiate the information need (see `queries2016_with_url.xml`). 
  
