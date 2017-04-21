@@ -22,7 +22,7 @@ More information about the tasks are given below. Also please visit the [website
   
   `-> 2017` - will contain the assessments for the 2017 submissions. 
   
-`queries` - contains the queries to be used for the tasks. These are the 2016 queries. Note that we have also provided the URL of the web forum we used to initiate the information need (see `queries2016_with_url.xml`). 
+`queries` - contains the queries to be used for the tasks. These are the 2016 queries (see sub-dir `multilingual` for the human translation of the queries in other languages). Note that we have also provided the URL of the web forum we used to initiate the information need (see `queries2016_with_url.xml` and the sub-dir `reddit-posts`). 
  
 
 ## Tasks Information 
