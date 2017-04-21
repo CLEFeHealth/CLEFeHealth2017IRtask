@@ -1,0 +1,38 @@
+Question about biochemistry results regarding liver 
+ whydoesitexist 
+ Mon Apr 20 13:30:45 2015 UTC 
+ On Saturday I had a lot of abdominal discomfort to the point where I suspected appendicitis. I went to the hospital, went through the tests and was told that it was really just constipation (I spent the majority of yesterday getting it out). What's a little more worrisome was what came up on my blood test. My ALT was way higher than normal (112) for my age (28), and the doctor asked me if I drink. When I said I did, he told me to stop immediately. I do drink, but I would not say that I drink excessively. I don't drink alone, I don't drink anything but beer and I certainly don't drink every day. I'll admit that probably one day out of every weekend I might have in excess of six beers, but that doesn't seem to me like problem-level drinking. This is also a fairly new development; before the last couple of years I didn't drink more than once a week. Now, I understand that denial is part of alcoholism and I'm willing to work on that as well, but there's a few things I'd like clarified that the doctor didn't / wouldn't answer: 1) How bad is 112, really? How much of that damage is irreversible? 2) I had been out the night before - had some wine with dinner, then about five pints over the course of the evening. Could that have had any bearing on skewing the numbers? I would say the blood tests happened 12 - 16 hours after I had been drinking. 3) What else could fuck my liver up (maybe in conjunction with the drinking)? I'm the heaviest I've been in a while (6', 215) but as I understand it this is something that could've happened over time. 
+  
+ hipsterdocmd 
+ Mon Apr 20 14:47:45 2015 UTC 
+ AST and ALT are two tests for transaminases, enzymes in your liver that do awesome stuff but are elevated in conditions like alcohol use, viral hepatitis (ranging from the generally less worrisome Hepatitis A to the more worrisome Hep B and Hep C), fatty liver disease and other rarer conditions like autoimmune hepatitis or Wilson's disease or stuff that might make an episode of House MD or an eager med students' suggestions but you don't see in real life. For isolated ALT elevations, doctors generally check blood tests for viral hepatitis. Could a high ALT be a temporary thing? As in, be brought on mostly by the fact that I was inebriated hours before? It could if it were due to the alcohol. Your level is considered a mild elevation medically. Do you know what you AST was? But if you had one of the conditions /u/hipsterdocmd listed maybe not. The liver has a remarkable ability to heal itself until the damage done is irreversible. I forget what the exact number is (don't have the paper with me currently) but it was about half of the ALT was. Every lab has different reference ranges for normal. I would suggest following up with your personal physician. Yes ALT can be transiently elevated. 
+  
+ whydoesitexist 
+ Mon Apr 20 20:37:15 2015 UTC 
+ Could a high ALT be a temporary thing? As in, be brought on mostly by the fact that I was inebriated hours before? It could if it were due to the alcohol. Your level is considered a mild elevation medically. Do you know what you AST was? But if you had one of the conditions /u/hipsterdocmd listed maybe not. The liver has a remarkable ability to heal itself until the damage done is irreversible. I forget what the exact number is (don't have the paper with me currently) but it was about half of the ALT was. Every lab has different reference ranges for normal. I would suggest following up with your personal physician. Yes ALT can be transiently elevated. 
+  
+ gatorhound 
+ Mon Apr 20 20:50:41 2015 UTC 
+ It could if it were due to the alcohol. Your level is considered a mild elevation medically. Do you know what you AST was? But if you had one of the conditions /u/hipsterdocmd listed maybe not. The liver has a remarkable ability to heal itself until the damage done is irreversible. I forget what the exact number is (don't have the paper with me currently) but it was about half of the ALT was. Every lab has different reference ranges for normal. I would suggest following up with your personal physician. 
+  
+ whydoesitexist 
+ Mon Apr 20 21:03:29 2015 UTC 
+ I forget what the exact number is (don't have the paper with me currently) but it was about half of the ALT was. Every lab has different reference ranges for normal. I would suggest following up with your personal physician. 
+  
+ gatorhound 
+ Mon Apr 20 21:17:32 2015 UTC 
+ Every lab has different reference ranges for normal. I would suggest following up with your personal physician. 
+  
+ hipsterdocmd 
+ Mon Apr 20 23:09:50 2015 UTC 
+ Yes ALT can be transiently elevated. 
+  
+ Senseismic 
+ Mon Apr 20 23:47:10 2015 UTC 
+ Hipsterdoc has said the most things. I'd be thinking about non-alcoholic fatty liver disease given you are on the cusp of medical obesity. I'd also give yourself a bit of a break: there's nothing wrong with having the odd drink (six beers a week isn't alcoholism!!) 
+  
+ Ballongo 
+ Tue Apr 21 04:23:49 2015 UTC 
+ Not a doctor. I do believe it is different from person to person. Some people can drink in excess all their lives without any issues, while other genetically are less resistent to alcohol induced liver damage. My layman opinion is to check your liver again. And try to get an ultrasound. 
+  
+ 

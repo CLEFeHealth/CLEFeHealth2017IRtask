@@ -1,0 +1,18 @@
+[Question] Why are people with muscular dystrophy/atrophy not treated with anabolic steroids and physical therapy? 
+ Member12 
+ Tue Dec 30 21:16:27 2014 UTC 
+ I was always curious of this question and Google and Wikipedia are not providing very sufficient answers so I figured, why not ask a doc. I always wondered why people, especially when diagnosed at a young age with muscular dystrophy and atrophies, were not given something to counteract the muscle depleting properties of these illnesses, like anabolic steroids? I saw some minimal texts about corticosteroids, but why are anabolic steroids and physical therapy out of the question when it comes to these incurable, debilitating diseases. Is there evidence that there is not clinically significant result from this type of treatment, or does it have to do with ethics of some sort. If anyone has any information on this topic it would be greatly appreciated thank you!! 
+  
+ Mathlife 
+ Wed Dec 31 09:42:15 2014 UTC 
+ Currentely scientists are trying to implant genes to counteract Duchenne and degrade it into the less-serious BMD, essentially converting the person's DNA. To answer your question, the problem with these diseases is that the protein Dystrophine which connects the (muscle) cell to the extracellulair matrix, isn't available. But if you don't make any proteins at all, anabolic steroids won't have any effect on your Dystrophine levels. The same goes for physical therapy. You can compare it to math: multiplying a positive factor with zero remains zero. I actually found this answer to be the most helpful. Thank you, that makes a lot more sense!! 
+  
+ Member12 
+ Thu Jan 1 07:22:24 2015 UTC 
+ I actually found this answer to be the most helpful. Thank you, that makes a lot more sense!! 
+  
+ four_tamago 
+ Wed Dec 31 01:17:10 2014 UTC 
+ Muscular dystrophies are a heterogenous group of disorders, but some of them, like Duchenne muscular dystrophy, are due to a genetic mutation that leads to a nonfunctional form of an essential muscle protein. The nonfunctional protein interferes with muscle function, leading to weakness and wasting. Anabolic steroids can't counteract the effects of the gene mutation, so they are not usually given as treatment. Physical therapy can be used, in early stages of the disease, to prolong muscle use. 
+  
+ 
