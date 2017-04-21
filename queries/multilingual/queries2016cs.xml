@@ -1,0 +1,1202 @@
+<queries>
+<query>
+	<id>101001-cs</id>
+	<title>korekce inguinální hernie laparoskopická síťka přínosy rizika</title>
+</query>
+<query>
+	<id>101002-cs</id>
+	<title>inguinální hernie laparoskopická operace s použitím síťky</title>
+</query>
+<query>
+	<id>101003-cs</id>
+	<title>inguinální hernie míra úspěšnosti</title>
+</query>
+<query>
+	<id>101004-cs</id>
+	<title>operace inguinální hernie nebo chirurgické "komplikace"</title>
+</query>
+<query>
+	<id>101005-cs</id>
+	<title>inguinální hernie laparoskopicky s použitím síťky přehledy operací</title>
+</query>
+<query>
+	<id>101006-cs</id>
+	<title>inguinální hernie příběh pacienta o operaci, je bezpečná?</title>
+</query>
+<query>
+	<id>102001-cs</id>
+	<title>možnosti odstranění výrůstku v oblasti konečníku</title>
+</query>
+<query>
+	<id>102002-cs</id>
+	<title>odstranění kožního výrůstku v oblasti konečníku bolest</title>
+</query>
+<query>
+	<id>102003-cs</id>
+	<title>kožní výrůstek odstraňte</title>
+</query>
+<query>
+	<id>102004-cs</id>
+	<title>odstranění kožních výrůstků v oblasti konečníku nebo zotavení se z léčby</title>
+</query>
+<query>
+	<id>102005-cs</id>
+	<title>budu potřebovat při odstraňování kožního výrůstku v oblasti konečníku celkovou anestezii </title>
+</query>
+<query>
+	<id>102006-cs</id>
+	<title>je bezpečné, aby mi lékař odstranil kožní výrůstky v oblasti konečníku pomocí lidokainu</title>
+</query>
+<query>
+	<id>103001-cs</id>
+	<title>bolesti hlavy odeznívající po darování krve</title>
+</query>
+<query>
+	<id>103002-cs</id>
+	<title>vysoká hladina železa bolesti hlavy</title>
+</query>
+<query>
+	<id>103003-cs</id>
+	<title>darování krve zmírnění bolestí hlavy</title>
+</query>
+<query>
+	<id>103004-cs</id>
+	<title>bolesti hlavy vyvolané nahromaděním krve nebo "vysokým krevním tlakem"</title>
+</query>
+<query>
+	<id>103005-cs</id>
+	<title>bolest hlavy, která ustupuje pouze při ztrátě krve</title>
+</query>
+<query>
+	<id>103006-cs</id>
+	<title>co způsobuje silné bolesti hlavy v oblasti báze lební, odeznívá s darováním krve</title>
+</query>
+<query>
+	<id>104001-cs</id>
+	<title>nekontrolovatelný kašel postinfekční ulehnutí na lůžko</title>
+</query>
+<query>
+	<id>104002-cs</id>
+	<title>kašlání ulehnutí na lůžko</title>
+</query>
+<query>
+	<id>104003-cs</id>
+	<title>ulehnout na lůžko kašel</title>
+</query>
+<query>
+	<id>104004-cs</id>
+	<title>silný "kašlání", které se dostavuje po "ulehnutí na lůžko" nebo ve spánku</title>
+</query>
+<query>
+	<id>104005-cs</id>
+	<title>chrapot, bolestivý kašel, když ulehnu na lůžko</title>
+</query>
+<query>
+	<id>104006-cs</id>
+	<title>infekce doprovázená rýmou bolest na hrudi a kašel - může to vést k tomu, že nebudu moci spát?</title>
+</query>
+<query>
+	<id>105001-cs</id>
+	<title>vysoký příjem vody nepřetržitá žízeň přičiny</title>
+</query>
+<query>
+	<id>105002-cs</id>
+	<title>účinky pití nadměrného množství vody</title>
+</query>
+<query>
+	<id>105003-cs</id>
+	<title>cukrovka</title>
+</query>
+<query>
+	<id>105004-cs</id>
+	<title>intoxikace vodou příznaky</title>
+</query>
+<query>
+	<id>105005-cs</id>
+	<title>jaké množství vody mohu denně bezpečně vypít</title>
+</query>
+<query>
+	<id>105006-cs</id>
+	<title>může být pití nadměrného množství vody pro vás nebezpečné?</title>
+</query>
+<query>
+	<id>106001-cs</id>
+	<title>letargie nespavost vitamínové doplňky rizika</title>
+</query>
+<query>
+	<id>106002-cs</id>
+	<title>přírodní doplněk energie nastartování dne</title>
+</query>
+<query>
+	<id>106003-cs</id>
+	<title>5 Hour Energy alternativa</title>
+</query>
+<query>
+	<id>106004-cs</id>
+	<title>přirodní léčby pro celoživotní nespavost</title>
+</query>
+<query>
+	<id>106005-cs</id>
+	<title>přírodní doplněk, který účinkuje jako 5 Hour Energy</title>
+</query>
+<query>
+	<id>106006-cs</id>
+	<title>přírodní doplněk, který napomáhá při úzkosti </title>
+</query>
+<query>
+	<id>107001-cs</id>
+	<title>nepravidelné měsíčky vykašlávání krve</title>
+</query>
+<query>
+	<id>107002-cs</id>
+	<title>vykašlávání tmavé krve</title>
+</query>
+<query>
+	<id>107003-cs</id>
+	<title>menstruace kašel</title>
+</query>
+<query>
+	<id>107004-cs</id>
+	<title>menstruace nebo měsíčky jako příčina vykašlávání krve</title>
+</query>
+<query>
+	<id>107005-cs</id>
+	<title>vykašlávání krve POUZE během menstruace</title>
+</query>
+<query>
+	<id>107006-cs</id>
+	<title>vykašlávání krve během menstruace, může být potrat příčinou?</title>
+</query>
+<query>
+	<id>108001-cs</id>
+	<title>snížená funkce štítné žlázy zpomalený metabolismus alternativy k léčbě</title>
+</query>
+<query>
+	<id>108002-cs</id>
+	<title>deprese léky k léčbě poruch stítné žlázy</title>
+</query>
+<query>
+	<id>108003-cs</id>
+	<title>příčiny zpomaleného metabolismu</title>
+</query>
+<query>
+	<id>108004-cs</id>
+	<title>problém nebo onemocnění štítné žlázy vede k "nárůstu hmotnosti" nebo k obezitě metabolismus</title>
+</query>
+<query>
+	<id>108005-cs</id>
+	<title>léky k léčbě poruch štítné žlázy u pacientů mladšího věku</title>
+</query>
+<query>
+	<id>108006-cs</id>
+	<title>snížený metabolismus v důsledku problému se štítnou žlázou - jaký lék mohu užívat?</title>
+</query>
+<query>
+	<id>109001-cs</id>
+	<title>bílý utvar podobný pupínku, dialyzovaný pacient</title>
+</query>
+<query>
+	<id>109002-cs</id>
+	<title>tvrdá bílá boulička okolo očí</title>
+</query>
+<query>
+	<id>109003-cs</id>
+	<title>nepravidelnosti pokožky</title>
+</query>
+<query>
+	<id>109004-cs</id>
+	<title>tvrdý bílý pupínek na obličeji</title>
+</query>
+<query>
+	<id>109005-cs</id>
+	<title>bílá tečka podobná pupínku, kterou nelze vymáčknout a která není měkká</title>
+</query>
+<query>
+	<id>109006-cs</id>
+	<title>malý pupínek v okolo očí, při peritoneální dialýze</title>
+</query>
+<query>
+	<id>110001-cs</id>
+	<title>závažná fibromyalgie obtížně léčitelná možnost léčby</title>
+</query>
+<query>
+	<id>110002-cs</id>
+	<title>fibromyalgie léky proti bolest</title>
+</query>
+<query>
+	<id>110003-cs</id>
+	<title>bolest kolene kyčle ramene krku</title>
+</query>
+<query>
+	<id>110004-cs</id>
+	<title>úleva od bolesti u fibromyalgie</title>
+</query>
+<query>
+	<id>110005-cs</id>
+	<title>způsoby, jak ulevit od bolesti u fibromyalgie bez použití opiátů</title>
+</query>
+<query>
+	<id>110006-cs</id>
+	<title>jak ulevit od bolesti u Fibromyalgie, přírodní možnosti léčby</title>
+</query>
+<query>
+	<id>111001-cs</id>
+	<title>známky tyreotoxické krize příznaky, při kterých je nutno zasáhnout</title>
+</query>
+<query>
+	<id>111002-cs</id>
+	<title>štítná žláza palpitace úzkost náhlý stav </title>
+</query>
+<query>
+	<id>111003-cs</id>
+	<title>tyreotoxická krize</title>
+</query>
+<query>
+	<id>111004-cs</id>
+	<title>TSH nebo štítná žláza nebo "tyreotoxická krize" život ohrožující nebo "život ohrožující" nebo fatální nebo náhlý stav</title>
+</query>
+<query>
+	<id>111005-cs</id>
+	<title>TSH 0.04 jet do nemocnice?</title>
+</query>
+<query>
+	<id>111006-cs</id>
+	<title>potíže při onemocnění štítné žlázy - zrychlená klidová tepová frekvence, bušení srdce, chvění na hrudi a bolesti celého těla, měl bych vyhledat endokrinologa </title>
+</query>
+<query>
+	<id>112001-cs</id>
+	<title>dárce rgánu fakta vs. mýty</title>
+</query>
+<query>
+	<id>112002-cs</id>
+	<title>nebudou vás lékaři ošetřovat, pokud jste dárcem orgánů</title>
+</query>
+<query>
+	<id>112003-cs</id>
+	<title>rizika dárcovství orgánů</title>
+</query>
+<query>
+	<id>112004-cs</id>
+	<title>nebezpečí nebo rizika v případě "dárce orgánů"</title>
+</query>
+<query>
+	<id>112005-cs</id>
+	<title>mýty, že lékaři nebo chirurgové neudělají vše pro záchranu Vašeho života, pokud jste dárcem orgánů?</title>
+</query>
+<query>
+	<id>112006-cs</id>
+	<title>mají lékaři zájem na tom, abyste během operaci umřel, pokud jste dárcem orgánu</title>
+</query>
+<query>
+	<id>113001-cs</id>
+	<title>bolesti břicha po jídle nafouklý plynatý přítomnost krve ve stolici</title>
+</query>
+<query>
+	<id>113002-cs</id>
+	<title>cestovatelský průjem léčba bolesti</title>
+</query>
+<query>
+	<id>113003-cs</id>
+	<title>zastavený pohyb střev bolest v horní části žaludku</title>
+</query>
+<query>
+	<id>113004-cs</id>
+	<title>příčiny nadýmání plynatosti měkká stolice s příměsí krve</title>
+</query>
+<query>
+	<id>113005-cs</id>
+	<title>výrazně nafouklý, plynatý a moje stolice jsou obvykle velmi měkké s malou příměsí světle červené krve poté, co se najím </title>
+</query>
+<query>
+	<id>113006-cs</id>
+	<title>co vyvolává silné bolesti břicha poté, co se najím (anaméza gastrointestinálního dyskomfortu) </title>
+</query>
+<query>
+	<id>114001-cs</id>
+	<title>vymknutý kotník žádná bolest mírná podlitina doba hojení</title>
+</query>
+<query>
+	<id>114002-cs</id>
+	<title>podvrtnutý kotník doba zotavení po operaci lapidus bunionektomie</title>
+</query>
+<query>
+	<id>114003-cs</id>
+	<title>podvrtnutý kotník doba hojení</title>
+</query>
+<query>
+	<id>114004-cs</id>
+	<title>podvrtnutý kotník pevná vycházková obuv doba hojení</title>
+</query>
+<query>
+	<id>114005-cs</id>
+	<title>podvrtnutý kotník s operací lapidus bunionektomie doba zotavení</title>
+</query>
+<query>
+	<id>114006-cs</id>
+	<title>jak dlouho trvá, než dojde k zotavení podvrtnutého kotníku</title>
+</query>
+<query>
+	<id>115001-cs</id>
+	<title>Bellova obrna známky příznaky příčiny</title>
+</query>
+<query>
+	<id>115002-cs</id>
+	<title>jak lze chytnout herpes</title>
+</query>
+<query>
+	<id>115003-cs</id>
+	<title>přenos herpesu</title>
+</query>
+<query>
+	<id>115004-cs</id>
+	<title>můžete chytnout herpes, aniž byste měl sex?</title>
+</query>
+<query>
+	<id>115005-cs</id>
+	<title>dostal jsem antiherpetické léky k léčbě Belloby obrny, ovšem herpes nemám</title>
+</query>
+<query>
+	<id>115006-cs</id>
+	<title>znamená to, že pokud mám Bellovou obrnu, mám i herpes?</title>
+</query>
+<query>
+	<id>116001-cs</id>
+	<title>krvácení z konečníku rizika příčiny</title>
+</query>
+<query>
+	<id>116002-cs</id>
+	<title>bakteriemický konečník trhlina</title>
+</query>
+<query>
+	<id>116003-cs</id>
+	<title>konečník krvácení číslo dvě</title>
+</query>
+<query>
+	<id>116004-cs</id>
+	<title>bakteriémický nebo bakteriemický zapříčiněný trhlinou na konečníku</title>
+</query>
+<query>
+	<id>116005-cs</id>
+	<title>jak může při utírání konečníku dojít k bakteriemii</title>
+</query>
+<query>
+	<id>116006-cs</id>
+	<title>může dojít k bakteriemii při utírání krvácejícího konečníku?</title>
+</query>
+<query>
+	<id>117001-cs</id>
+	<title>tylenol nachlazení benylin extra síla znásobená rizika</title>
+</query>
+<query>
+	<id>117002-cs</id>
+	<title>Benylin společně s Tylenolem</title>
+</query>
+<query>
+	<id>117003-cs</id>
+	<title>lékaři v mé blízkosti</title>
+</query>
+<query>
+	<id>117004-cs</id>
+	<title>míchání léků "tylenol" nachlazení & chřipka benylin extra síla</title>
+</query>
+<query>
+	<id>117005-cs</id>
+	<title>mohu užít Tylenol Cold současně s Benylinem?</title>
+</query>
+<query>
+	<id>117006-cs</id>
+	<title>lze užít Tylenol Cold současně s Benylinem?</title>
+</query>
+<query>
+	<id>118001-cs</id>
+	<title>akutní kompartment syndrom léčebné možnosti</title>
+</query>
+<query>
+	<id>118002-cs</id>
+	<title>akutní kompartment syndrom léčba jiná než operační</title>
+</query>
+<query>
+	<id>118003-cs</id>
+	<title>akutní kompartment syndrom pojištění</title>
+</query>
+<query>
+	<id>118004-cs</id>
+	<title>"akutní kompartment" syndrom léčby</title>
+</query>
+<query>
+	<id>118005-cs</id>
+	<title>léky proti bolesti silnější než oxykodon</title>
+</query>
+<query>
+	<id>118006-cs</id>
+	<title>jak léčit akutní kompartment syndrom bez chirurgické intervence</title>
+</query>
+<query>
+	<id>119001-cs</id>
+	<title>použití anabolických steroidů u pacientů se svalovou dystrofií</title>
+</query>
+<query>
+	<id>119002-cs</id>
+	<title>svalová dystrofie anabolické steroidy</title>
+</query>
+<query>
+	<id>119003-cs</id>
+	<title>svalová dystrofie steroid</title>
+</query>
+<query>
+	<id>119004-cs</id>
+	<title>dystrofie nebo atrofie "anabolické" steroidy</title>
+</query>
+<query>
+	<id>119005-cs</id>
+	<title>proč lidé se svalovou dystrofií nebo s atrofiemi nedostávají přípravky působící proti svalovému vyčerpání, jako jsou anabolické steroidy? </title>
+</query>
+<query>
+	<id>119006-cs</id>
+	<title>proč lidé se svalovou dystrofií nedostávají anabolické steroidy?</title>
+</query>
+<query>
+	<id>120001-cs</id>
+	<title>skríninový krevní test na žloutenku typu B informace infekce</title>
+</query>
+<query>
+	<id>120002-cs</id>
+	<title>žloutenka typu B chyba krevního testu</title>
+</query>
+<query>
+	<id>120003-cs</id>
+	<title>krevní test na žloutenku typu B reaktivní</title>
+</query>
+<query>
+	<id>120004-cs</id>
+	<title>nachlazení ovlivňuje "krevní test"</title>
+</query>
+<query>
+	<id>120005-cs</id>
+	<title>může nachlazení interferovat s testem na žloutenku typu B?</title>
+</query>
+<query>
+	<id>120006-cs</id>
+	<title>může nachlazení vyvolat žloutenku typu B (reaktivní výsledek krevního testu) </title>
+</query>
+<query>
+	<id>121001-cs</id>
+	<title>necitlivost palce u nohy příčiny a doba zotavení</title>
+</query>
+<query>
+	<id>121002-cs</id>
+	<title>znecitlivěly palec u nohy po vyzutí bot</title>
+</query>
+<query>
+	<id>121003-cs</id>
+	<title>zlomený palec u nohy</title>
+</query>
+<query>
+	<id>121004-cs</id>
+	<title>obuv způsobuje znecitlivělost puchýře nebezpečné</title>
+</query>
+<query>
+	<id>121005-cs</id>
+	<title>boty typu "kanady" mi způsobují boule, puchýře a voskovitý vzhled malíčku u nohy</title>
+</query>
+<query>
+	<id>121006-cs</id>
+	<title>co způsobuje znecitlivělost malíčku u nohy (těsná obuv) </title>
+</query>
+<query>
+	<id>122001-cs</id>
+	<title>bolest břicha levostranná s úlevou po zvracení</title>
+</query>
+<query>
+	<id>122002-cs</id>
+	<title>dítě bolesti břicha několikanásobné zvracení </title>
+</query>
+<query>
+	<id>122003-cs</id>
+	<title>kojenec bolesti břicha zvracení</title>
+</query>
+<query>
+	<id>122004-cs</id>
+	<title>příčiny bolestí břicha u dětí</title>
+</query>
+<query>
+	<id>122005-cs</id>
+	<title>5-leté dítě bolesti břicha objasněny lékařem?</title>
+</query>
+<query>
+	<id>122006-cs</id>
+	<title>bolesti břicha, zvracení, bolesti v oblasti pupku, zdvojený močovod</title>
+</query>
+<query>
+	<id>123001-cs</id>
+	<title>nežádoucí účinky effexoru</title>
+</query>
+<query>
+	<id>123002-cs</id>
+	<title>effexor nežádoucí účinek vyváženost</title>
+</query>
+<query>
+	<id>123003-cs</id>
+	<title>nežádoucí účinek effexoru</title>
+</query>
+<query>
+	<id>123004-cs</id>
+	<title>nežádoucí účinky effexoru</title>
+</query>
+<query>
+	<id>123005-cs</id>
+	<title>co způsobuje nežádoucí účinky charakteru závratí u Effexoru</title>
+</query>
+<query>
+	<id>123006-cs</id>
+	<title>jaký je nežádoucí účinek SNRI léků, závratě</title>
+</query>
+<query>
+	<id>124001-cs</id>
+	<title>Informace o Alzheimerově nemoci</title>
+</query>
+<query>
+	<id>124002-cs</id>
+	<title>Jak Alzheimerova nemoc vede k smrti</title>
+</query>
+<query>
+	<id>124003-cs</id>
+	<title>Alzheimerova nemoc jako příčina úmrtí</title>
+</query>
+<query>
+	<id>124004-cs</id>
+	<title>podrobný pohled na to, jak Alzheimerova nemoc zabíjí</title>
+</query>
+<query>
+	<id>124005-cs</id>
+	<title>vysvětlit mechanismus smrti u Alzheimerovy nemoci</title>
+</query>
+<query>
+	<id>124006-cs</id>
+	<title>co je příčinou úmrtí, pokud trpíte Alzheimerovou nemocí?</title>
+</query>
+<query>
+	<id>125001-cs</id>
+	<title>tyreoidektomie kompenzující ztrátu tělesné hmotnosti</title>
+</query>
+<query>
+	<id>125002-cs</id>
+	<title>hemityreoidektomie ztráta tělesné hmotnosti</title>
+</query>
+<query>
+	<id>125003-cs</id>
+	<title>odstranění štítné žlázy ztráta tělesné hmotnosti</title>
+</query>
+<query>
+	<id>125004-cs</id>
+	<title>štítná žláza může způsobit ztrátu tělesné hmotnosti</title>
+</query>
+<query>
+	<id>125005-cs</id>
+	<title>podstoupil odstranění štítné žlázy vpravo, nyní zhubl 8 liber během jednoho měsíce </title>
+</query>
+<query>
+	<id>125006-cs</id>
+	<title>odstranění štítné žlázy vede ke ztrátě tělesné hmotnosti? </title>
+</query>
+<query>
+	<id>126001-cs</id>
+	<title>znecitlivění rukou prstů u nohou u žen únava</title>
+</query>
+<query>
+	<id>126002-cs</id>
+	<title>únava ztráta rovnováhy pocit znecitlivění mdloba palpitace příčiny</title>
+</query>
+<query>
+	<id>126003-cs</id>
+	<title>kardiovaskulární potíže</title>
+</query>
+<query>
+	<id>126004-cs</id>
+	<title>projevy kardiovaskulárního onemocnění</title>
+</query>
+<query>
+	<id>126005-cs</id>
+	<title>zvláštní projevy, které lékař neumí diagnostikovat? alternativní lékaři?</title>
+</query>
+<query>
+	<id>126006-cs</id>
+	<title>co způsobuje znecitlivělost prstů na rukou a nohou v klidu, dušnost, únavu, ztrátu rovnováhy, záškuby svalů? nevyvinuté plíce při porodu</title>
+</query>
+<query>
+	<id>127001-cs</id>
+	<title>zápal plic rizika obavy léčebné možnosti</title>
+</query>
+<query>
+	<id>127002-cs</id>
+	<title>příčiny opakovaného zápalu plic</title>
+</query>
+<query>
+	<id>127003-cs</id>
+	<title>pravidelný zápal plic</title>
+</query>
+<query>
+	<id>127004-cs</id>
+	<title>příčiny opakujícího se zápalu plic</title>
+</query>
+<query>
+	<id>127005-cs</id>
+	<title>zápal plic třikrát během jednoho roku. Měl bych se znepokojovat? </title>
+</query>
+<query>
+	<id>127006-cs</id>
+	<title>opakující se zápal plic, jak jej léčit</title>
+</query>
+<query>
+	<id>128001-cs</id>
+	<title>nárůst inteligence steroidy dieta vitaminy</title>
+</query>
+<query>
+	<id>128002-cs</id>
+	<title>koncentrace lepší po prodělání mononukleózy</title>
+</query>
+<query>
+	<id>128003-cs</id>
+	<title>duševní projev faktory</title>
+</query>
+<query>
+	<id>128004-cs</id>
+	<title>"mononukleóza" vás dělá chytřejšími</title>
+</query>
+<query>
+	<id>128005-cs</id>
+	<title>proč se mi studijně dařilo lépe po prodělání mononukleózy?</title>
+</query>
+<query>
+	<id>128006-cs</id>
+	<title>může prodělání mononukleózy zlepšit vaše studijní dovednosti (dieta, omezení příjmu kalorií, steroidy, chybění úzkosti) </title>
+</query>
+<query>
+	<id>129001-cs</id>
+	<title>touha po soli zvyšuje pocit žízně</title>
+</query>
+<query>
+	<id>129002-cs</id>
+	<title>deprese a křeče v břiše</title>
+</query>
+<query>
+	<id>129003-cs</id>
+	<title>touha po soli</title>
+</query>
+<query>
+	<id>129004-cs</id>
+	<title>Tourettův syndrom nadměrná spavost touha po soli</title>
+</query>
+<query>
+	<id>129005-cs</id>
+	<title>touha po soli" A "celotělové křeče" A "potřeba 12hodinového spánku" A "neschopnost udržet tělesnou teplotu </title>
+</query>
+<query>
+	<id>129006-cs</id>
+	<title>co způsobuje celotělové křeče</title>
+</query>
+<query>
+	<id>130001-cs</id>
+	<title>bolesti dolní části zad krev ve spermatu bolesti varlat</title>
+</query>
+<query>
+	<id>130002-cs</id>
+	<title>krev ve spermatu</title>
+</query>
+<query>
+	<id>130003-cs</id>
+	<title>poranění páteře varle</title>
+</query>
+<query>
+	<id>130004-cs</id>
+	<title> nežádoucí účinky metokarbamolu</title>
+</query>
+<query>
+	<id>130005-cs</id>
+	<title>krvavé sperma, oteklá varlata a bolesti zad?</title>
+</query>
+<query>
+	<id>130006-cs</id>
+	<title>přičiny bolesti v dolní části vpravo, oteklá varlata, bolest ve spermatu</title>
+</query>
+<query>
+	<id>131001-cs</id>
+	<title>biopsie HSV benigní mírní inflitrace pokožky penisu vysvětleno</title>
+</query>
+<query>
+	<id>131002-cs</id>
+	<title>penis lymfocytární infiltrace zřetelný artefakt rozdrceného buněčného jádra</title>
+</query>
+<query>
+	<id>131003-cs</id>
+	<title>benigní pokožka penisu prokazující mírnou lymfocytární infiltraci se zřetelnými artefakty rozdrceného buněčného jádra</title>
+</query>
+<query>
+	<id>131004-cs</id>
+	<title>lymfocytární infiltrace</title>
+</query>
+<query>
+	<id>131005-cs</id>
+	<title>co znamená formulace benigní pokožka penisu prokazující mírnou lymfocytární infiltraci se zřetelnými artefakty rozdrceného buněčného jádra?</title>
+</query>
+<query>
+	<id>131006-cs</id>
+	<title>co u biopsii kůže znamená formulace "Benigní pokožka penisu prokazující mírnou lymfocytární infiltraci se zřetelnými artefakty rozdrceného buněčného jádra"</title>
+</query>
+<query>
+	<id>132001-cs</id>
+	<title>perikarditida rizikové faktory léčebné možnosti</title>
+</query>
+<query>
+	<id>132002-cs</id>
+	<title>perikarditida úleva do bolesti užívatele IV léčiv</title>
+</query>
+<query>
+	<id>132003-cs</id>
+	<title>nenávykové léky proti bolesti</title>
+</query>
+<query>
+	<id>132004-cs</id>
+	<title>přirozené způsoby, které vám pomohou navodit spánek</title>
+</query>
+<query>
+	<id>132005-cs</id>
+	<title>jak minimalizovat bolesti na hrudi, u srdce a bolesti zad v domácím prostředí?</title>
+</query>
+<query>
+	<id>132006-cs</id>
+	<title>přírodní prostředky pomáhající při perikarditidě</title>
+</query>
+<query>
+	<id>133001-cs</id>
+	<title>nevolnost zvracení syndrom dráždivého tračníku vysvětlená krev ve stolici</title>
+</query>
+<query>
+	<id>133002-cs</id>
+	<title>bolesti žaludku, křeče, nevolnost, zvracení, průjem klonazepam hydroxyzin pamoát ranitidin</title>
+</query>
+<query>
+	<id>133003-cs</id>
+	<title>nejlepší gastroenterologové</title>
+</query>
+<query>
+	<id>133004-cs</id>
+	<title>projevy syndromu dráždivého tračníku</title>
+</query>
+<query>
+	<id>133005-cs</id>
+	<title>projevy horší než u syndromu dráždivého tračníku, ovšem lékař to vidí jinak</title>
+</query>
+<query>
+	<id>133006-cs</id>
+	<title>to, co způsobuje bolesti žaludku a křeče, nevolnost, zvracení a průjem, souvisí se syndromem dráždivého tračníku anebo se jedná o něco jiného?</title>
+</query>
+<query>
+	<id>134001-cs</id>
+	<title>alkohol okamžitě horko bolesti hlavy nevolnost nový</title>
+</query>
+<query>
+	<id>134002-cs</id>
+	<title>alkohol teplota bolesti hlavy nevolnost nový nástup</title>
+</query>
+<query>
+	<id>134003-cs</id>
+	<title>alkohol bolesti hlavy nevolnost</title>
+</query>
+<query>
+	<id>134004-cs</id>
+	<title>okamžitě pociťuje nevolnost po konzumaci alkoholu</title>
+</query>
+<query>
+	<id>134005-cs</id>
+	<title>pociťuji nevolnost pokaždé, když piju alkohol</title>
+</query>
+<query>
+	<id>134006-cs</id>
+	<title>pociťovat nevolnost okamžitá změna pití alkoholu ve věku 21 let</title>
+</query>
+<query>
+	<id>135001-cs</id>
+	<title>hypertenze u žen trýznivá bolest hlavy dvojité vidění příčiny</title>
+</query>
+<query>
+	<id>135002-cs</id>
+	<title>hypertenze ženy mladšího věku příčiny a léčba</title>
+</query>
+<query>
+	<id>135003-cs</id>
+	<title>hypertenze</title>
+</query>
+<query>
+	<id>135004-cs</id>
+	<title>hypertenze projevy</title>
+</query>
+<query>
+	<id>135005-cs</id>
+	<title>hypertenze objasněna lékařem, co bude následovat dále?</title>
+</query>
+<query>
+	<id>135006-cs</id>
+	<title>jak léčit Hypertenzi projevy, léčba, vyšetření</title>
+</query>
+<query>
+	<id>136001-cs</id>
+	<title>závažná hypertenze upravit léčba</title>
+</query>
+<query>
+	<id>136002-cs</id>
+	<title>snížení velmi vysokého krevního tlaku za krátký čas</title>
+</query>
+<query>
+	<id>136003-cs</id>
+	<title>náhlý pokles vysoký krevní tlak</title>
+</query>
+<query>
+	<id>136004-cs</id>
+	<title>nebezpečí příliš rychlého snížení krevního tlaku na normální hodnoty</title>
+</query>
+<query>
+	<id>136005-cs</id>
+	<title>proč perorální léky místo intravenózních léků? Co záleží na tom, jestli krevní tlak klesne na více normální hodnoty?</title>
+</query>
+<query>
+	<id>136006-cs</id>
+	<title>co se stane, pokud u pacienta s anamnézou cévní mozkové příhody snížíte krevní tlak příliš rychle? </title>
+</query>
+<query>
+	<id>137001-cs</id>
+	<title>letargie u dítětě vysoké CRP zvětšené lymfatické uzliny bolest po jídle</title>
+</query>
+<query>
+	<id>137002-cs</id>
+	<title>vysoká hladina TSH u dítěte nízká hladina železa opakované infekce</title>
+</query>
+<query>
+	<id>137003-cs</id>
+	<title>zvětšené lymfatické uzliny nadýmání nízká hladina energie bolesti žaludku</title>
+</query>
+<query>
+	<id>137004-cs</id>
+	<title>příčiny nízké hladiny glukózy či železa</title>
+</query>
+<query>
+	<id>137005-cs</id>
+	<title>letargický, zvětšené lymfatické uzliny, nadýmání po jídle, u pětilietého pacienta?</title>
+</query>
+<query>
+	<id>137006-cs</id>
+	<title>5-letá holčička, trvalá letargie, zvětšené lymfatické uzliny, bolesti žaludku, snížená chuť k jídlu, nadýmání po jídle, kopřivka. Co to způsobuje?</title>
+</query>
+<query>
+	<id>138001-cs</id>
+	<title>mladá žena s nepřetržitou bolestí na hrudi normální nález na rentgenu hrudníku rameno pravá paže </title>
+</query>
+<query>
+	<id>138002-cs</id>
+	<title>silná bolest na hrudi mladá žena příčiny</title>
+</query>
+<query>
+	<id>138003-cs</id>
+	<title>kašel bolest na hrudi</title>
+</query>
+<query>
+	<id>138004-cs</id>
+	<title>nežádoucí účinky parietu nebo rabeprazolu</title>
+</query>
+<query>
+	<id>138005-cs</id>
+	<title>bolest na hrudi přetrvávající i po užití parietu</title>
+</query>
+<query>
+	<id>138006-cs</id>
+	<title>bolest na hrudi, na australské PPI medikaci, bolest u srdce</title>
+</query>
+<query>
+	<id>139001-cs</id>
+	<title>vysvětlené jaterní testy</title>
+</query>
+<query>
+	<id>139002-cs</id>
+	<title>příčiny mírného zvýšení hladiny ALT</title>
+</query>
+<query>
+	<id>139003-cs</id>
+	<title>analýza výsledků hladin ALT</title>
+</query>
+<query>
+	<id>139004-cs</id>
+	<title>vysoká hladina ALT způsobující nevratné poškození</title>
+</query>
+<query>
+	<id>139005-cs</id>
+	<title>závažnost výsledku ALT 112</title>
+</query>
+<query>
+	<id>139006-cs</id>
+	<title>vysoké hladiny ALT (112), vek 28 let a alkoholik - budu muset přestat pít?</title>
+</query>
+<query>
+	<id>140001-cs</id>
+	<title>krev ve spermatu poranění prostaty</title>
+</query>
+<query>
+	<id>140002-cs</id>
+	<title>krev ve spermatu jízda na kole</title>
+</query>
+<query>
+	<id>140003-cs</id>
+	<title>krev ve spermatu z ježdění na kole</title>
+</query>
+<query>
+	<id>140004-cs</id>
+	<title>příčiny nálezu krve ve spermatu</title>
+</query>
+<query>
+	<id>140005-cs</id>
+	<title>krev ve spermatu přítomná asi jeden týden bez jakýchkoliv dalších příznaků?</title>
+</query>
+<query>
+	<id>140006-cs</id>
+	<title>co způsobuje nález krve ve spermatu, který trvá 1 týden</title>
+</query>
+<query>
+	<id>141001-cs</id>
+	<title>rýma léčebné možnosti</title>
+</query>
+<query>
+	<id>141002-cs</id>
+	<title>chronické ucpání nosu léčba</title>
+</query>
+<query>
+	<id>141003-cs</id>
+	<title>ucpaný nos</title>
+</query>
+<query>
+	<id>141004-cs</id>
+	<title>jak se zbavit rýmy neboli "tečení z nosu"</title>
+</query>
+<query>
+	<id>141005-cs</id>
+	<title>nepřetržitá rýma trvající 2 roky</title>
+</query>
+<query>
+	<id>141006-cs</id>
+	<title>jak se zbavit rýmy </title>
+</query>
+<query>
+	<id>142001-cs</id>
+	<title>postmenopauzální krvácení z bradavek </title>
+</query>
+<query>
+	<id>142002-cs</id>
+	<title>krvavý výtok z bradavek</title>
+</query>
+<query>
+	<id>142003-cs</id>
+	<title>bradavka zaschlá krev tekutina</title>
+</query>
+<query>
+	<id>142004-cs</id>
+	<title>nežádoucí účinky hysterektomie výtok z prsou nebo bradavek hormonální nerovnováha</title>
+</query>
+<query>
+	<id>142005-cs</id>
+	<title>krvácení a výtok z pravé bradavky s drobnou sraženinou, může jít o benigní záležitost?</title>
+</query>
+<query>
+	<id>142006-cs</id>
+	<title>co může způsobit krvácení a výtok z pravé bradavky, odstranění piercingu z bradavky</title>
+</query>
+<query>
+	<id>143001-cs</id>
+	<title>rizika a nežádoucí účinky dlouhodobého užívání PPI </title>
+</query>
+<query>
+	<id>143002-cs</id>
+	<title>nežádoucí účinky dlouhodobého užívání omeprazolu</title>
+</query>
+<query>
+	<id>143003-cs</id>
+	<title>omeprazol projevy</title>
+</query>
+<query>
+	<id>143004-cs</id>
+	<title>nebezpečí dlouhodobého užívání PPI nebo Omeprazolu</title>
+</query>
+<query>
+	<id>143005-cs</id>
+	<title>dopad dlouhodobého užívání PPI?</title>
+</query>
+<query>
+	<id>143006-cs</id>
+	<title>jaké jsou účinky dlouhodobého užívání Omeprazolu</title>
+</query>
+<query>
+	<id>144001-cs</id>
+	<title>zvyšený počet bílých krvinek v moči žádné projevy infekce</title>
+</query>
+<query>
+	<id>144002-cs</id>
+	<title>bílé krvinky v moči žádná infekce</title>
+</query>
+<query>
+	<id>144003-cs</id>
+	<title>infekce močových cest</title>
+</query>
+<query>
+	<id>144004-cs</id>
+	<title>příčiny nálezu bílých krvinek v moči</title>
+</query>
+<query>
+	<id>144005-cs</id>
+	<title>co způsobuje nález bílých krvinek v moči bez infekce? </title>
+</query>
+<query>
+	<id>144006-cs</id>
+	<title>co způsobuje nález bílých krvinek v moči - u pětiletého dítěte</title>
+</query>
+<query>
+	<id>145001-cs</id>
+	<title>Guillain-Barré syndrom infomace pro pacienty průběh onemocnění</title>
+</query>
+<query>
+	<id>145002-cs</id>
+	<title>Guillain-Barré syndrom</title>
+</query>
+<query>
+	<id>145003-cs</id>
+	<title>Guillain-Barré syndrom</title>
+</query>
+<query>
+	<id>145004-cs</id>
+	<title>Guillain-Barré syndrom projevy</title>
+</query>
+<query>
+	<id>145005-cs</id>
+	<title>co obnáší Guillain-Barré syndrom</title>
+</query>
+<query>
+	<id>145006-cs</id>
+	<title>jaké jsou projevy Guillain-Barré syndromu?</title>
+</query>
+<query>
+	<id>146001-cs</id>
+	<title>oteklé varle bolesti zad nevolnost zvracení horečka</title>
+</query>
+<query>
+	<id>146002-cs</id>
+	<title>oteklé bolestivé varle, bolest, zvracení</title>
+</query>
+<query>
+	<id>146003-cs</id>
+	<title>otok šourku bolesti zad bolesti břicha nevolnost pomalý</title>
+</query>
+<query>
+	<id>146004-cs</id>
+	<title>projevy hydrokély</title>
+</query>
+<query>
+	<id>146005-cs</id>
+	<title>otok šourku, bolesti zad a bolesti břicha, hydrokéla?</title>
+</query>
+<query>
+	<id>146006-cs</id>
+	<title>co způsobuje otok šourku, bolesti zad, bolesti břicha, nevolnost a zvracení - může se jednat o hydrokélu?</title>
+</query>
+<query>
+	<id>147001-cs</id>
+	<title>infekce v krku bolest v krku podrážděné oči léčebné možnosti</title>
+</query>
+<query>
+	<id>147002-cs</id>
+	<title>nepřetržitá bolest v krku příčiny a léčba</title>
+</query>
+<query>
+	<id>147003-cs</id>
+	<title>bolesti hlavy krku očí</title>
+</query>
+<query>
+	<id>147004-cs</id>
+	<title>virová infekce v krku projevy</title>
+</query>
+<query>
+	<id>147005-cs</id>
+	<title>bolest v krku, bolesti hlavy a červené oči, virová infekce v krku?</title>
+</query>
+<query>
+	<id>147006-cs</id>
+	<title>co bolest v krku, podrážděné oči, bolest hlavy - více než jenom virová infekce?</title>
+</query>
+<query>
+	<id>148001-cs</id>
+	<title>léky proti bolesti chronická bolest omezení podávání opiátů vysvětlit</title>
+</query>
+<query>
+	<id>148002-cs</id>
+	<title>šance, že vám budou předepsány opiáty</title>
+</query>
+<query>
+	<id>148003-cs</id>
+	<title>předepsání opiátů lékař</title>
+</query>
+<query>
+	<id>148004-cs</id>
+	<title>proč lékaři neradi předepisují opiáty?</title>
+</query>
+<query>
+	<id>148005-cs</id>
+	<title>proč je tak obtížné dostat léky proti bolesti?</title>
+</query>
+<query>
+	<id>148006-cs</id>
+	<title>proč se lékaři tak zdráhají vydávat léky proti bolesti</title>
+</query>
+<query>
+	<id>149001-cs</id>
+	<title>změněné vidění rozmazaný bod rizika známky projevy</title>
+</query>
+<query>
+	<id>149002-cs</id>
+	<title>bolesti hlavy a změny vidění</title>
+</query>
+<query>
+	<id>149003-cs</id>
+	<title>oko rozostřená skvrna slzy</title>
+</query>
+<query>
+	<id>149004-cs</id>
+	<title>projevy migrény</title>
+</query>
+<query>
+	<id>149005-cs</id>
+	<title>náhlý vznik rozmazaného bodu ve vidění ze slz</title>
+</query>
+<query>
+	<id>149006-cs</id>
+	<title>co způsobuje rozmazaný bod ve vidění pod středem zaostření, prodlouženou skvrnu, rodinnná anamnéza svalové degenerace</title>
+</query>
+<query>
+	<id>150001-cs</id>
+	<title>bolestivá erekce zhoršení po zavedení Foleyova katétru</title>
+</query>
+<query>
+	<id>150002-cs</id>
+	<title>bolestivá erekce po zavedení katétru</title>
+</query>
+<query>
+	<id>150003-cs</id>
+	<title>Foleyův katétr vznik modřin</title>
+</query>
+<query>
+	<id>150004-cs</id>
+	<title>bolest z důvodu zavedení Foleyova katétru modřiny se objevují pouze v době erekce penisu</title>
+</query>
+<query>
+	<id>150005-cs</id>
+	<title>bolestivá erekce měsíc po zavedení Foleyova katétru</title>
+</query>
+<query>
+	<id>150006-cs</id>
+	<title>co způsobuje bolestivou erekci po zavedení Foleyova katétru</title>
+</query>
+</queries>

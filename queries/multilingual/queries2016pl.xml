@@ -1,0 +1,1202 @@
+<queries>
+<query>
+	<id>101001-pl</id>
+	<title>operacja laparoskopowa przepukliny pachwinowej z użyciem siatki korzyści ryzyko</title>
+</query>
+<query>
+	<id>101002-pl</id>
+	<title>operacja laparoskopowa przepukliny pachwinowej z użyciem siatki</title>
+</query>
+<query>
+	<id>101003-pl</id>
+	<title>wskaźnik sukcesu w operacjach przepukliny pachwinowej</title>
+</query>
+<query>
+	<id>101004-pl</id>
+	<title>operacje przepukliny pachwinowej lub "powikłania" chirurgiczne </title>
+</query>
+<query>
+	<id>101005-pl</id>
+	<title>operacja laparoskopowa przepukliny pachwinowej z użyciem siatki - opinie</title>
+</query>
+<query>
+	<id>101006-pl</id>
+	<title>opis operacji przepukliny pachwinowej, czy ten zabieg jest bezpieczny?</title>
+</query>
+<query>
+	<id>102001-pl</id>
+	<title>możliwości usunięcia wyrośli odbytu</title>
+</query>
+<query>
+	<id>102002-pl</id>
+	<title>ból po usunięciu polipowatej wyrośli odbytu </title>
+</query>
+<query>
+	<id>102003-pl</id>
+	<title>brodawka miękka skóry usunięcie</title>
+</query>
+<query>
+	<id>102004-pl</id>
+	<title>odbytowy "usunięcie brodawek miękkich skóry lub leczenie" powrót do zdrowia</title>
+</query>
+<query>
+	<id>102005-pl</id>
+	<title>czy do usunięcia polipowatej wyrośli odbytu potrzebne jest znieczulenie ogólne </title>
+</query>
+<query>
+	<id>102006-pl</id>
+	<title>czy bezpieczne jest usuwanie polipowatych wyrośli odbytu przez lekarza z użyciem lidokainy</title>
+</query>
+<query>
+	<id>103001-pl</id>
+	<title>łagodzenie bólów głowy dzięki dawstwu krwi</title>
+</query>
+<query>
+	<id>103002-pl</id>
+	<title>ból głowy wywołany wysokim stężeniem żelaza </title>
+</query>
+<query>
+	<id>103003-pl</id>
+	<title>dawstwo krwi złagodzenie bólów głowy</title>
+</query>
+<query>
+	<id>103004-pl</id>
+	<title>bóle głowy wywołane zbyt dużą ilością krwi lub "wysokie ciśnienie krwi"</title>
+</query>
+<query>
+	<id>103005-pl</id>
+	<title>ból głowy, który mija tylko po utracie krwi </title>
+</query>
+<query>
+	<id>103006-pl</id>
+	<title>co wywołuje silne bóle głowy u podstawy czaszki, które przestają występować, gdy oddaje się krew </title>
+</query>
+<query>
+	<id>104001-pl</id>
+	<title>niekontrolowany kaszel po zakażeniu podczas kładzenia się</title>
+</query>
+<query>
+	<id>104002-pl</id>
+	<title>kaszlenie podczas kładzenia się</title>
+</query>
+<query>
+	<id>104003-pl</id>
+	<title>kaszel podczas kładzenia się</title>
+</query>
+<query>
+	<id>104004-pl</id>
+	<title>gwałtowny "kaszel" wywołany "kładzeniem się" lub spaniem</title>
+</query>
+<query>
+	<id>104005-pl</id>
+	<title>chrapliwy, bolesny kaszel, kiedy się kładę</title>
+</query>
+<query>
+	<id>104006-pl</id>
+	<title>zakażenie z katarem, bólem w klatce piersiowej i kaszlem - czy może spowodować, że nie będę mógł spać?</title>
+</query>
+<query>
+	<id>105001-pl</id>
+	<title>duże spożycie wody stałe pragnienie przyczyny</title>
+</query>
+<query>
+	<id>105002-pl</id>
+	<title>skutki picia zbyt dużej ilości wody</title>
+</query>
+<query>
+	<id>105003-pl</id>
+	<title>cukrzyca</title>
+</query>
+<query>
+	<id>105004-pl</id>
+	<title>objawy zatrucia wodą</title>
+</query>
+<query>
+	<id>105005-pl</id>
+	<title>ile wody dziennie można bezpiecznie wypić</title>
+</query>
+<query>
+	<id>105006-pl</id>
+	<title>czy picie zbyt dużej ilości wody może być szkodliwe? </title>
+</query>
+<query>
+	<id>106001-pl</id>
+	<title>letarg bezsenność suplementy witaminowe ryzyka</title>
+</query>
+<query>
+	<id>106002-pl</id>
+	<title>naturalny suplement diety energia budzenie się</title>
+</query>
+<query>
+	<id>106003-pl</id>
+	<title>alternatywa dla 5 Hour Energy </title>
+</query>
+<query>
+	<id>106004-pl</id>
+	<title>naturalne kuracje na bezsenność trwającą całe życie </title>
+</query>
+<query>
+	<id>106005-pl</id>
+	<title>naturalny suplement diety, który działa jak 5 Hour Energy</title>
+</query>
+<query>
+	<id>106006-pl</id>
+	<title>naturalny suplement diety pomagający w stanach lękowych </title>
+</query>
+<query>
+	<id>107001-pl</id>
+	<title>nieregularny okres krwioplucie</title>
+</query>
+<query>
+	<id>107002-pl</id>
+	<title>krwioplucie ciemną krwią</title>
+</query>
+<query>
+	<id>107003-pl</id>
+	<title>kaszel podczas miesiączki</title>
+</query>
+<query>
+	<id>107004-pl</id>
+	<title>miesiączka lub okres wywołują krwioplucie</title>
+</query>
+<query>
+	<id>107005-pl</id>
+	<title>krwioplucie TYLKO podczas miesiączki</title>
+</query>
+<query>
+	<id>107006-pl</id>
+	<title>czy krwioplucie podczas miesiączki może być spowodowane przerwaniem ciąży?</title>
+</query>
+<query>
+	<id>108001-pl</id>
+	<title>niedoczynność tarczycy powolny metabolizm leki alternatywne</title>
+</query>
+<query>
+	<id>108002-pl</id>
+	<title>leki na depresję tarczycową</title>
+</query>
+<query>
+	<id>108003-pl</id>
+	<title>przyczyny powolnej przemiany materii </title>
+</query>
+<query>
+	<id>108004-pl</id>
+	<title>problem z tarczycą lub jej stan wywołują "przyrost wagi ciała" lub otyłość metaboliczną</title>
+</query>
+<query>
+	<id>108005-pl</id>
+	<title>leki na tarczycę dla młodzieży</title>
+</query>
+<query>
+	<id>108006-pl</id>
+	<title>wolny metabolizm wywołany problemami z tarczycą - jakie leki można zażywać?</title>
+</query>
+<query>
+	<id>109001-pl</id>
+	<title>coś podobnego do białego wyprysku, pacjent dializowany</title>
+</query>
+<query>
+	<id>109002-pl</id>
+	<title>twardy, biały guzek obok oka</title>
+</query>
+<query>
+	<id>109003-pl</id>
+	<title>zgrubienia skóry</title>
+</query>
+<query>
+	<id>109004-pl</id>
+	<title>twardy, biały pryszcz na twarzy</title>
+</query>
+<query>
+	<id>109005-pl</id>
+	<title>biały pryszcz podobny do krosty, którego nie można wycisnąć i nie jest miękki</title>
+</query>
+<query>
+	<id>109006-pl</id>
+	<title>mały pryszcz obok oka, na dializie otrzewnowej</title>
+</query>
+<query>
+	<id>110001-pl</id>
+	<title>ciężka fibromyalgia (gościec mięśniowo-włóknisty) trudna w leczeniu opcje leczenia</title>
+</query>
+<query>
+	<id>110002-pl</id>
+	<title>fibromyalgia ból lekarstwa</title>
+</query>
+<query>
+	<id>110003-pl</id>
+	<title>ból kolana biodra barku szyi</title>
+</query>
+<query>
+	<id>110004-pl</id>
+	<title>łagodzenie bólu przy fibromyalgii</title>
+</query>
+<query>
+	<id>110005-pl</id>
+	<title>sposoby łagodzenia uporczywego ból bez użycia opiatów</title>
+</query>
+<query>
+	<id>110006-pl</id>
+	<title>jak złagodzić ból przy fibromyalgii, kuracje naturalne </title>
+</query>
+<query>
+	<id>111001-pl</id>
+	<title>objawy przełomu tarczycowego, kiedy zacząć działać </title>
+</query>
+<query>
+	<id>111002-pl</id>
+	<title>kołatanie serca w chorobach tarczycy lęki nagły przypadek</title>
+</query>
+<query>
+	<id>111003-pl</id>
+	<title>przełom tarczycowy</title>
+</query>
+<query>
+	<id>111004-pl</id>
+	<title>TSH lub tarczyca lub "przełom tarczycowy" zagrażający życiu lub "zagrożenie życia" lub śmiertelny lub nagły przypadek</title>
+</query>
+<query>
+	<id>111005-pl</id>
+	<title>TSH 0.04 czy udać się do szpitala</title>
+</query>
+<query>
+	<id>111006-pl</id>
+	<title>problemy z tarczycą - podwyższony puls spoczynkowy, kołatanie serca, trzepotanie w klatce piersiowej i ból ciała, czy należy udać się do endokrynologa</title>
+</query>
+<query>
+	<id>112001-pl</id>
+	<title>dawca narządów fakty i mity</title>
+</query>
+<query>
+	<id>112002-pl</id>
+	<title>czy lekarze leczą pacjenta, który jest dawcą narządów</title>
+</query>
+<query>
+	<id>112003-pl</id>
+	<title>dawca narządów ryzyka</title>
+</query>
+<query>
+	<id>112004-pl</id>
+	<title>zagrożenia lub ryzyka związane z byciem "dawcą narządów"</title>
+</query>
+<query>
+	<id>112005-pl</id>
+	<title>mit, że lekarze lub chirurdzy nie będą się tak bardzo starali, żeby utrzymać pacjenta przy życiu, jeżeli jest on dawcą narządów </title>
+</query>
+<query>
+	<id>112006-pl</id>
+	<title>czy lekarze chcą, żeby pacjent będący dawcą narządów umarł na sali operacyjnej</title>
+</query>
+<query>
+	<id>113001-pl</id>
+	<title>ból brzucha po jedzeniu nabrzmiały wzdęty krew w stolcu</title>
+</query>
+<query>
+	<id>113002-pl</id>
+	<title>podróż biegunka leczenie ból</title>
+</query>
+<query>
+	<id>113003-pl</id>
+	<title>zatrzymanie wypróżniania ból w górnej części brzucha</title>
+</query>
+<query>
+	<id>113004-pl</id>
+	<title>przyczyny nabrzmienia, wzdęcia miękkie stolce z krwią</title>
+</query>
+<query>
+	<id>113005-pl</id>
+	<title>mocno nabrzmiały, wzdęty i stolce są często bardzo luźne z niewielką ilością jasnoczerwonej krwi po jedzeniu</title>
+</query>
+<query>
+	<id>113006-pl</id>
+	<title>co powoduje silny ból brzucha podczas jedzenia (historia dolegliwości przewodu pokarmowego) </title>
+</query>
+<query>
+	<id>114001-pl</id>
+	<title>zwichnięcie stawu skokowego bez bólu lekkie obtłuczenie czas gojenia</title>
+</query>
+<query>
+	<id>114002-pl</id>
+	<title>skręcenie kostki czas zdrowienia po bunionektomii wg Lapidusa</title>
+</query>
+<query>
+	<id>114003-pl</id>
+	<title>skręcenie kostki czas gojenia</title>
+</query>
+<query>
+	<id>114004-pl</id>
+	<title>skręcenie kostki stabilizatory stawu skokowego czas gojenia</title>
+</query>
+<query>
+	<id>114005-pl</id>
+	<title>skręcenie kostki przy bunionektomii wg Lapidusa czas zdrowienia</title>
+</query>
+<query>
+	<id>114006-pl</id>
+	<title>jak długo goi się skręcona kostka</title>
+</query>
+<query>
+	<id>115001-pl</id>
+	<title>porażenie Bella objawy przyczyny </title>
+</query>
+<query>
+	<id>115002-pl</id>
+	<title>jak można zarazić się opryszczką</title>
+</query>
+<query>
+	<id>115003-pl</id>
+	<title>przenoszenie opryszczki</title>
+</query>
+<query>
+	<id>115004-pl</id>
+	<title>czy można zarazić się opryszczką bez uprawiania seksu?</title>
+</query>
+<query>
+	<id>115005-pl</id>
+	<title>podano mi leki na opryszczkę w leczeniu porażenia Bella, ale nie mam opryszczki</title>
+</query>
+<query>
+	<id>115006-pl</id>
+	<title>czy jeżeli mam porażenie Bella to znaczy, że mam opryszczkę?</title>
+</query>
+<query>
+	<id>116001-pl</id>
+	<title>krwawienie z odbytu ryzyka przyczyny </title>
+</query>
+<query>
+	<id>116002-pl</id>
+	<title>bakteriemia szczelina odbytu </title>
+</query>
+<query>
+	<id>116003-pl</id>
+	<title>krwawienie z odbytu numer dwa</title>
+</query>
+<query>
+	<id>116004-pl</id>
+	<title>bakteriemia wywołana szczeliną odbytu</title>
+</query>
+<query>
+	<id>116005-pl</id>
+	<title>w jaki sposób może dojść do bakteriemii podczas wycierania odbytu</title>
+</query>
+<query>
+	<id>116006-pl</id>
+	<title>czy można nabawić się bakteriemii, jeżeli odbyt krwawi podczas wycierania?</title>
+</query>
+<query>
+	<id>117001-pl</id>
+	<title>Tylenol Cold Benylin Extra Strength ryzyko połączenia dwóch leków</title>
+</query>
+<query>
+	<id>117002-pl</id>
+	<title>Benylin i Tylenol razem</title>
+</query>
+<query>
+	<id>117003-pl</id>
+	<title>lekarze blisko mnie</title>
+</query>
+<query>
+	<id>117004-pl</id>
+	<title>łączenie leków "Tylenol" Cold & Flu Benylin Extra Strength</title>
+</query>
+<query>
+	<id>117005-pl</id>
+	<title>czy mogę jednocześnie wziąć Tylenol Cold i Benylin </title>
+</query>
+<query>
+	<id>117006-pl</id>
+	<title>czy można jednocześnie wziąć Tylenol Cold i Benylin</title>
+</query>
+<query>
+	<id>118001-pl</id>
+	<title>ostry zespół ciasnoty opcje leczenia</title>
+</query>
+<query>
+	<id>118002-pl</id>
+	<title>zespół ciasnoty leczenie nieoperacyjne</title>
+</query>
+<query>
+	<id>118003-pl</id>
+	<title>ostry zespół ciasnoty ubezpieczenie</title>
+</query>
+<query>
+	<id>118004-pl</id>
+	<title>"ostry zespół ciasnoty" sposoby leczenia</title>
+</query>
+<query>
+	<id>118005-pl</id>
+	<title>leki przeciwbólowe silniejsze niż oksykodon </title>
+</query>
+<query>
+	<id>118006-pl</id>
+	<title>jak nieoperacyjnie wyleczyć ostry zespół ciasnoty</title>
+</query>
+<query>
+	<id>119001-pl</id>
+	<title>stosowanie sterydów anabolicznych u pacjentów z dystrofią mięśniową</title>
+</query>
+<query>
+	<id>119002-pl</id>
+	<title>dystrofia mięśniowa sterydy anaboliczne </title>
+</query>
+<query>
+	<id>119003-pl</id>
+	<title>dystrofia mięśniowa sterydy </title>
+</query>
+<query>
+	<id>119004-pl</id>
+	<title>dystrofia lub zanik "sterydy anaboliczne"</title>
+</query>
+<query>
+	<id>119005-pl</id>
+	<title>dlaczego osobom cierpiącym na dystrofię i zaniki mięśni nie podaje się czegoś, co przeciwdziałałoby postępującej utracie mięśni, jak sterydy anaboliczne</title>
+</query>
+<query>
+	<id>119006-pl</id>
+	<title>dlaczego osobom z dystrofią mięśniową nie podaje się sterydów anabolicznych?</title>
+</query>
+<query>
+	<id>120001-pl</id>
+	<title>wirusowe zapalenie wątroby typu B przesiewowe badanie krwi informacje zakażenie </title>
+</query>
+<query>
+	<id>120002-pl</id>
+	<title>wirusowe zapalenie wątroby typu B błędny wynik badania krwi </title>
+</query>
+<query>
+	<id>120003-pl</id>
+	<title>badanie krwi reaktywne zapalenie wątroby typu B</title>
+</query>
+<query>
+	<id>120004-pl</id>
+	<title>przeziębienie wpływa na wynik "badania krwi"</title>
+</query>
+<query>
+	<id>120005-pl</id>
+	<title>czy to, że ktoś jest przeziębiony może wpływać na wynik testu na WZW typu B?</title>
+</query>
+<query>
+	<id>120006-pl</id>
+	<title>czy to, że ktoś jest przeziębiony może wywołać WZW typu B (reaktywne badanie krwi) </title>
+</query>
+<query>
+	<id>121001-pl</id>
+	<title>drętwienie palca u nogi przyczyny i czas zdrowienia</title>
+</query>
+<query>
+	<id>121002-pl</id>
+	<title>drętwienie palca u nogi po noszeniu butów z cholewką</title>
+</query>
+<query>
+	<id>121003-pl</id>
+	<title>złamany palec u nogi</title>
+</query>
+<query>
+	<id>121004-pl</id>
+	<title>buty powodują drętwienie pęcherze niebezpieczne</title>
+</query>
+<query>
+	<id>121005-pl</id>
+	<title>buty wojskowe powodują guzy, pęcherze i uczucie, jakby mały palec u nogi był pokryty woskiem </title>
+</query>
+<query>
+	<id>121006-pl</id>
+	<title>co powoduje drętwienie małego palcu u nogi (obcisłe buty) </title>
+</query>
+<query>
+	<id>122001-pl</id>
+	<title>ból brzucha po lewej stronie ulga po wymiotach</title>
+</query>
+<query>
+	<id>122002-pl</id>
+	<title>ból brzucha u dziecka wymioty wielokrotnie</title>
+</query>
+<query>
+	<id>122003-pl</id>
+	<title>niemowlę ból brzucha wymioty</title>
+</query>
+<query>
+	<id>122004-pl</id>
+	<title>przyczyny bólu brzucha u dzieci</title>
+</query>
+<query>
+	<id>122005-pl</id>
+	<title>pięcioletnie dzieci bóle brzucha wyjaśnione przez lekarzy?</title>
+</query>
+<query>
+	<id>122006-pl</id>
+	<title>bóle brzucha, wymioty, ból w okolicy pępka, zdwojenie moczowodu</title>
+</query>
+<query>
+	<id>123001-pl</id>
+	<title>Effexor efekty uboczne</title>
+</query>
+<query>
+	<id>123002-pl</id>
+	<title>Effexor działanie niepożądane bilans</title>
+</query>
+<query>
+	<id>123003-pl</id>
+	<title>Effexor działanie niepożądane </title>
+</query>
+<query>
+	<id>123004-pl</id>
+	<title>Effexor skutki uboczne</title>
+</query>
+<query>
+	<id>123005-pl</id>
+	<title>co wywołuje zawroty głowy Effexor skutki uboczne</title>
+</query>
+<query>
+	<id>123006-pl</id>
+	<title>co jest skutkiem ubocznym leków SNRI, zawroty głowy</title>
+</query>
+<query>
+	<id>124001-pl</id>
+	<title>choroba Alzheimera informacje</title>
+</query>
+<query>
+	<id>124002-pl</id>
+	<title>w jaki sposób choroba Alzheimera może doprowadzić do śmierci</title>
+</query>
+<query>
+	<id>124003-pl</id>
+	<title>przyczyna zgonu na Alzheimera</title>
+</query>
+<query>
+	<id>124004-pl</id>
+	<title>dokładne spojrzenie na to, jak zabija choroba Alzheimera </title>
+</query>
+<query>
+	<id>124005-pl</id>
+	<title>wyjaśnienie śmierci na chorobę Alzheimera</title>
+</query>
+<query>
+	<id>124006-pl</id>
+	<title>co powoduje śmierć, gdy ktoś cierpi na chorobę Alzheimera?</title>
+</query>
+<query>
+	<id>125001-pl</id>
+	<title>tyroidektomia wyrównanie utraty wagi</title>
+</query>
+<query>
+	<id>125002-pl</id>
+	<title>hemityreoidektomia utrata wagi</title>
+</query>
+<query>
+	<id>125003-pl</id>
+	<title>usunięcie tarczycy utrata wagi</title>
+</query>
+<query>
+	<id>125004-pl</id>
+	<title>tarczyca może powodować utratę wagi</title>
+</query>
+<query>
+	<id>125005-pl</id>
+	<title>usunięto mi tarczycę z prawej strony, a teraz straciłem 4 kg wagi w miesiąc</title>
+</query>
+<query>
+	<id>125006-pl</id>
+	<title>usunięcie tarczycy powoduje utratę wagi?</title>
+</query>
+<query>
+	<id>126001-pl</id>
+	<title>drętwienie rąk i palców u kobiet zmęczenie</title>
+</query>
+<query>
+	<id>126002-pl</id>
+	<title>zmęczenie utrata równowagi drętwienie uczucie omdlenia kołatanie serca przyczyny</title>
+</query>
+<query>
+	<id>126003-pl</id>
+	<title>problemy sercowo-naczyniowe</title>
+</query>
+<query>
+	<id>126004-pl</id>
+	<title>objawy choroby układu sercowo-naczyniowego</title>
+</query>
+<query>
+	<id>126005-pl</id>
+	<title>dziwne objawy, których lekarz nie potrafi zdiagnozować? lekarze medycyny alternatywnej?</title>
+</query>
+<query>
+	<id>126006-pl</id>
+	<title>co powoduje drętwienie palców rąk i nóg w czasie odpoczynku, duszność, zmęczenie, utratę równowagi, drżenia mięśniowe? niedorozwój płuc u noworodka</title>
+</query>
+<query>
+	<id>127001-pl</id>
+	<title>zapalenie płuc ryzyka obawy opcje leczenia</title>
+</query>
+<query>
+	<id>127002-pl</id>
+	<title>przyczyny nawracającego zapalenia płuc</title>
+</query>
+<query>
+	<id>127003-pl</id>
+	<title>zwykłe zapalenie płuc</title>
+</query>
+<query>
+	<id>127004-pl</id>
+	<title>przyczyny nawracania zapalenia płuc</title>
+</query>
+<query>
+	<id>127005-pl</id>
+	<title>zapalenie płuc 3 razy w ciągu roku. Czy powinienem się niepokoić?</title>
+</query>
+<query>
+	<id>127006-pl</id>
+	<title>ponowne zachorowanie na zapalenie płuc, jak to wyleczyć</title>
+</query>
+<query>
+	<id>128001-pl</id>
+	<title>zwiększenie inteligencji sterydy dieta witaminy</title>
+</query>
+<query>
+	<id>128002-pl</id>
+	<title>koncentracja lepsza po mononukleozie</title>
+</query>
+<query>
+	<id>128003-pl</id>
+	<title>czynniki określające sprawność umysłową</title>
+</query>
+<query>
+	<id>128004-pl</id>
+	<title>"mononukleoza" sprawia, że ​​człowiek jest mądrzejszy</title>
+</query>
+<query>
+	<id>128005-pl</id>
+	<title>dlaczego mam lepsze wyniki akademickie po mononukleozie?</title>
+</query>
+<query>
+	<id>128006-pl</id>
+	<title>czy mononukleoza przyczynia się do poprawienia umiejętności uczenia się (dieta, ograniczenie kalorii, sterydy, brak lęku) </title>
+</query>
+<query>
+	<id>129001-pl</id>
+	<title>łaknienie soli zwiększa pragnienie</title>
+</query>
+<query>
+	<id>129002-pl</id>
+	<title>depresja i kurcze brzucha</title>
+</query>
+<query>
+	<id>129003-pl</id>
+	<title>łaknienie soli</title>
+</query>
+<query>
+	<id>129004-pl</id>
+	<title>zespół Touretta nadmiar snu łaknienie soli</title>
+</query>
+<query>
+	<id>129005-pl</id>
+	<title>"łaknienie soli" AND "kurcze całego ciała" AND "potrzebuje 12 godzin snu" AND "nie mogę utrzymać temperatury ciała"</title>
+</query>
+<query>
+	<id>129006-pl</id>
+	<title>co powoduje kurcze całego ciała</title>
+</query>
+<query>
+	<id>130001-pl</id>
+	<title>ból w dole pleców krew w nasieniu ból jąder</title>
+</query>
+<query>
+	<id>130002-pl</id>
+	<title>krew w nasieniu</title>
+</query>
+<query>
+	<id>130003-pl</id>
+	<title>uraz pleców jądro</title>
+</query>
+<query>
+	<id>130004-pl</id>
+	<title>methocarbamol skutki uboczne</title>
+</query>
+<query>
+	<id>130005-pl</id>
+	<title>krwawe nasienie, obrzęk jąder i ból pleców?</title>
+</query>
+<query>
+	<id>130006-pl</id>
+	<title>przyczyny bólu w prawej dolnej części ciała, jądra opuchnięte, ból w nasieniu</title>
+</query>
+<query>
+	<id>131001-pl</id>
+	<title>biopsja zmiana opryszczkowa łagodna skóra prącia delikatnie nacieczona wyjaśnienie</title>
+</query>
+<query>
+	<id>131002-pl</id>
+	<title>limfocytowe nacieczenie prącia zaznaczony artefakt zgniecionych komórek jądra</title>
+</query>
+<query>
+	<id>131003-pl</id>
+	<title>łagodna zmiana skóry prącia ukazująca niewielkie limfocytowe nacieczenie z wyraźnym artefaktem zgniecionych komórek jądra</title>
+</query>
+<query>
+	<id>131004-pl</id>
+	<title>limfocytowe nacieczenie</title>
+</query>
+<query>
+	<id>131005-pl</id>
+	<title>co oznacza łagodna zmiana skóry prącia ukazująca niewielkie limfocytowe nacieczenie z wyraźnym artefaktem zgniecionych komórek jądra?</title>
+</query>
+<query>
+	<id>131006-pl</id>
+	<title>co oznacza "łagodna zmiana skóry prącia ukazująca niewielkie limfocytowe nacieczenie z wyraźnym artefaktem zgniecionych komórek jądra" w przypadku biopsji skóry?</title>
+</query>
+<query>
+	<id>132001-pl</id>
+	<title>zapalenie osierdzia czynnik ryzyka możliwości leczenia</title>
+</query>
+<query>
+	<id>132002-pl</id>
+	<title>zapalenie osierdzia łagodzenie bólu osoba przyjmująca narkotyki dożylnie</title>
+</query>
+<query>
+	<id>132003-pl</id>
+	<title>środki przeciwbólowe nie wywołujące uzależnienia</title>
+</query>
+<query>
+	<id>132004-pl</id>
+	<title>naturalne sposoby wspomagające zasypianie</title>
+</query>
+<query>
+	<id>132005-pl</id>
+	<title>jak zmniejszyć do minimum ból w klatce piersiowej, serca i pleców w domu?</title>
+</query>
+<query>
+	<id>132006-pl</id>
+	<title>naturalne środki zaradcze pomocne przy zapaleniu osierdzia</title>
+</query>
+<query>
+	<id>133001-pl</id>
+	<title>nudności wymioty IBS (zespół jelita drażliwego) wyjaśnia krew w kupie</title>
+</query>
+<query>
+	<id>133002-pl</id>
+	<title>ból brzucha, skurcze, nudności, wymioty, biegunka klonazepam hydroksyzyna pamoate ranitydyna </title>
+</query>
+<query>
+	<id>133003-pl</id>
+	<title>najlepsi gastroenterolodzy</title>
+</query>
+<query>
+	<id>133004-pl</id>
+	<title>objawy IBS </title>
+</query>
+<query>
+	<id>133005-pl</id>
+	<title>objawy gorsze niż w IBS, ale lekarz mówi nie</title>
+</query>
+<query>
+	<id>133006-pl</id>
+	<title>co powoduje bóle brzucha i skurcze, nudności, wymioty, biegunkę, czy jest to związane z IBS lub czy jest to coś innego?</title>
+</query>
+<query>
+	<id>134001-pl</id>
+	<title>alkohol natychmiast uderzenia gorąca i ból głowy nudności nowy</title>
+</query>
+<query>
+	<id>134002-pl</id>
+	<title>alkohol temperatura ból głowy nudności nowy napad</title>
+</query>
+<query>
+	<id>134003-pl</id>
+	<title>alkohol ból głowy nudności</title>
+</query>
+<query>
+	<id>134004-pl</id>
+	<title>od razu czuje się źle po wypiciu alkoholu</title>
+</query>
+<query>
+	<id>134005-pl</id>
+	<title>jest mi niedobrze za każdym razem, gdy piję alkohol</title>
+</query>
+<query>
+	<id>134006-pl</id>
+	<title>źle samopoczucie natychmiast po zmianie wypijanego alkoholu w wieku 21 lat</title>
+</query>
+<query>
+	<id>135001-pl</id>
+	<title>nadciśnienie u kobiety bóle głowy wywołujące ślepnięcie podwójne widzenie</title>
+</query>
+<query>
+	<id>135002-pl</id>
+	<title>nadciśnienie u młodej kobiety przyczyny i leczenie</title>
+</query>
+<query>
+	<id>135003-pl</id>
+	<title>nadciśnienie</title>
+</query>
+<query>
+	<id>135004-pl</id>
+	<title>objawy nadciśnienia</title>
+</query>
+<query>
+	<id>135005-pl</id>
+	<title>nadciśnienie tętnicze zostało wyleczone przez lekarza, co dalej?</title>
+</query>
+<query>
+	<id>135006-pl</id>
+	<title>jak usunąć objawy nadciśnienia, leki, badania</title>
+</query>
+<query>
+	<id>136001-pl</id>
+	<title>ciężkie nadciśnienie tętnicze prawidłowe zarządzanie</title>
+</query>
+<query>
+	<id>136002-pl</id>
+	<title>szybkie zmniejszenie bardzo wysokiego ciśnienia krwi </title>
+</query>
+<query>
+	<id>136003-pl</id>
+	<title>nagły spadek wysokiego ciśnienia krwi </title>
+</query>
+<query>
+	<id>136004-pl</id>
+	<title>niebezpieczeństwa zbyt szybkiego obniżenia ciśnienia krwi do normalnego poziomu</title>
+</query>
+<query>
+	<id>136005-pl</id>
+	<title>dlaczego podanie leków doustnie, a nie dożylnie? Jakie to ma znaczenie, czy ciśnienie krwi spadnie do bardziej normalnego poziomu?</title>
+</query>
+<query>
+	<id>136006-pl</id>
+	<title>co się stanie w przypadku szybkiego spadku ciśnienia krwi u osoby, która miała udar? </title>
+</query>
+<query>
+	<id>137001-pl</id>
+	<title>ospałość u dziecka wysokie CRP powiększone węzły chłonne ból po jedzeniu</title>
+</query>
+<query>
+	<id>137002-pl</id>
+	<title>dziecko wysokie TSH niskie żelazo nawracające infekcje</title>
+</query>
+<query>
+	<id>137003-pl</id>
+	<title>powiększone węzły chłonne wzdęcia niski poziom energii ból brzucha</title>
+</query>
+<query>
+	<id>137004-pl</id>
+	<title>przyczyny niskiego poziomu glukozy lub żelaza</title>
+</query>
+<query>
+	<id>137005-pl</id>
+	<title>ospałe, powiększone węzły chłonne, wzdęcia po jedzeniu, 5-letnie dziecko?</title>
+</query>
+<query>
+	<id>137006-pl</id>
+	<title>5-letnia dziewczynka, ustawiczna senność, zwiększone węzły chłonne, bóle w żołądku, zmniejszony apetyt, wzdęcia po jedzeniu, pokrzywka. Jakie są tego przyczyny?</title>
+</query>
+<query>
+	<id>138001-pl</id>
+	<title>młoda kobieta z uporczywym bólem w klatce piersiowej RTG klatki piersiowej bez zmian bark prawe ramię</title>
+</query>
+<query>
+	<id>138002-pl</id>
+	<title>silny ból w klatce piersiowej młoda kobieta przyczyny</title>
+</query>
+<query>
+	<id>138003-pl</id>
+	<title>kaszel ból w klatce piersiowej</title>
+</query>
+<query>
+	<id>138004-pl</id>
+	<title>działania niepożądane parietu lub rabeprazolu</title>
+</query>
+<query>
+	<id>138005-pl</id>
+	<title>nadal utrzymujący się ból w klatce piersiowej nawet po przyjęciu parietu</title>
+</query>
+<query>
+	<id>138006-pl</id>
+	<title>ból w klatce piersiowej, na australijskich lekach PPI, ból w okolicy sercu</title>
+</query>
+<query>
+	<id>139001-pl</id>
+	<title>próby wątrobowe wyjaśnione</title>
+</query>
+<query>
+	<id>139002-pl</id>
+	<title>przyczyny nieznacznie podniesionego poziomu ALT</title>
+</query>
+<query>
+	<id>139003-pl</id>
+	<title>analiza wyników ALT</title>
+</query>
+<query>
+	<id>139004-pl</id>
+	<title>odczyt wysokiego ALT powodującego nieodwracalne uszkodzenia</title>
+</query>
+<query>
+	<id>139005-pl</id>
+	<title>ALT 112 ciężkość</title>
+</query>
+<query>
+	<id>139006-pl</id>
+	<title>wysoki poziom ALT (112), lat 28 i pijący alkohol - czy muszę przestać pić?</title>
+</query>
+<query>
+	<id>140001-pl</id>
+	<title>krew w nasieniu uraz gruczołu krokowego</title>
+</query>
+<query>
+	<id>140002-pl</id>
+	<title>krew w nasieniu jazda na rowerze</title>
+</query>
+<query>
+	<id>140003-pl</id>
+	<title>krew w nasieniu od roweru</title>
+</query>
+<query>
+	<id>140004-pl</id>
+	<title>przyczyny krwi w nasieniu</title>
+</query>
+<query>
+	<id>140005-pl</id>
+	<title>krew w nasieniu przez około tydzień bez innych objawów?</title>
+</query>
+<query>
+	<id>140006-pl</id>
+	<title>co powoduje krew w nasieniu występującą przez tydzień</title>
+</query>
+<query>
+	<id>141001-pl</id>
+	<title>kapanie z nosa opcje leczenia</title>
+</query>
+<query>
+	<id>141002-pl</id>
+	<title>przewlekłe zatkanie nosa leczenie</title>
+</query>
+<query>
+	<id>141003-pl</id>
+	<title>zapchany nos</title>
+</query>
+<query>
+	<id>141004-pl</id>
+	<title>jak pozbyć się kapania z nosa lub "kataru"</title>
+</query>
+<query>
+	<id>141005-pl</id>
+	<title>uporczywe kapanie z nosa od 2 lat</title>
+</query>
+<query>
+	<id>141006-pl</id>
+	<title>jak pozbyć się kapania z nosa</title>
+</query>
+<query>
+	<id>142001-pl</id>
+	<title>postmenopauzalne krwawienie z brodawki sutkowej</title>
+</query>
+<query>
+	<id>142002-pl</id>
+	<title>krwawa wydzielina z sutka</title>
+</query>
+<query>
+	<id>142003-pl</id>
+	<title>brodawka sutkowa zaschnięta krew płyn</title>
+</query>
+<query>
+	<id>142004-pl</id>
+	<title>skutki uboczne histerektomii wydzielina z piersi lub brodawki sutkowej zachwianie równowagi hormonalnej</title>
+</query>
+<query>
+	<id>142005-pl</id>
+	<title>krwawienie i wydzielina z prawego sutka z małym zakrzepem, czy to może być łagodne?</title>
+</query>
+<query>
+	<id>142006-pl</id>
+	<title>co może wywoływać krwawienie i wydzielinę z brodawki prawej piersi, usunięcie piercingu brodawki</title>
+</query>
+<query>
+	<id>143001-pl</id>
+	<title>długotrwałe stosowanie IPP (Inhibitory Pompy Protonowej) ryzyka i skutki uboczne</title>
+</query>
+<query>
+	<id>143002-pl</id>
+	<title>długotrwałe stosowanie Omeprazolu skutki uboczne</title>
+</query>
+<query>
+	<id>143003-pl</id>
+	<title>omeprazol objawy</title>
+</query>
+<query>
+	<id>143004-pl</id>
+	<title>niebezpieczeństwa związane z długotrwałym przyjmowaniem IPP lub omeprazolu</title>
+</query>
+<query>
+	<id>143005-pl</id>
+	<title>wpływ długotrwałego przyjmowania IPP?</title>
+</query>
+<query>
+	<id>143006-pl</id>
+	<title>jakie są skutki długotrwałego stosowania Omeprazolu</title>
+</query>
+<query>
+	<id>144001-pl</id>
+	<title>zwiększona liczba krwinek białych w moczu żadnych objawów zakażenia</title>
+</query>
+<query>
+	<id>144002-pl</id>
+	<title>białe krwinki w moczu żadnego zakażenia</title>
+</query>
+<query>
+	<id>144003-pl</id>
+	<title>ZUM</title>
+</query>
+<query>
+	<id>144004-pl</id>
+	<title>przyczyny obecności białych krwinek w moczu</title>
+</query>
+<query>
+	<id>144005-pl</id>
+	<title>co powoduje obecność białych krwinek w moczu bez infekcji?</title>
+</query>
+<query>
+	<id>144006-pl</id>
+	<title>co powoduje obecność białych krwinek w moczu - 5-letnie dziecko</title>
+</query>
+<query>
+	<id>145001-pl</id>
+	<title>zespół Guillaina-Barrego informacje dla pacjenta przebieg choroby </title>
+</query>
+<query>
+	<id>145002-pl</id>
+	<title>Zespół Guillaina-Barrégo</title>
+</query>
+<query>
+	<id>145003-pl</id>
+	<title>zespół guillaina-barrego</title>
+</query>
+<query>
+	<id>145004-pl</id>
+	<title>zespół guillaina-barrego objawy</title>
+</query>
+<query>
+	<id>145005-pl</id>
+	<title>co pociąga za sobą zespół Guillaina-Barrégo</title>
+</query>
+<query>
+	<id>145006-pl</id>
+	<title>jakie są objawy zespołu Guillaina-Barrego?</title>
+</query>
+<query>
+	<id>146001-pl</id>
+	<title>opuchnięte jądro ból pleców nudności wymioty gorączka</title>
+</query>
+<query>
+	<id>146002-pl</id>
+	<title>obrzmiałe obolałe jądro, ból, wymioty</title>
+</query>
+<query>
+	<id>146003-pl</id>
+	<title>obrzęk moszny obolałe plecy ból brzucha nudności powoli</title>
+</query>
+<query>
+	<id>146004-pl</id>
+	<title>wodniak jądra objawy</title>
+</query>
+<query>
+	<id>146005-pl</id>
+	<title>obrzęk moszny, obolałe plecy i ból brzucha, wodniak jądra?</title>
+</query>
+<query>
+	<id>146006-pl</id>
+	<title>co powoduje opuchliznę jąder i ból pleców, ból brzucha, nudności, wymioty - czy to może być wodniak jądra?</title>
+</query>
+<query>
+	<id>147001-pl</id>
+	<title>zakażenie gardła ból gardła podrażnione oczy możliwości leczenia </title>
+</query>
+<query>
+	<id>147002-pl</id>
+	<title>uporczywy ból gardła przyczyny i leczenie</title>
+</query>
+<query>
+	<id>147003-pl</id>
+	<title>ból głowy gardła oka</title>
+</query>
+<query>
+	<id>147004-pl</id>
+	<title>objawy wirusowego zakażenia gardła</title>
+</query>
+<query>
+	<id>147005-pl</id>
+	<title>ból w gardle i głowy oraz zaczerwienione oczy, wirusowe zakażenie gardła?</title>
+</query>
+<query>
+	<id>147006-pl</id>
+	<title>jaki ból w gardle, podrażnione oczy, bóle głowy - coś więcej niż infekcja wirusowa?</title>
+</query>
+<query>
+	<id>148001-pl</id>
+	<title>Ból Leki na ból przewlekły ograniczenia w stosowaniu opiatów wyjaśnienie</title>
+</query>
+<query>
+	<id>148002-pl</id>
+	<title>szanse na przepisanie opioidów</title>
+</query>
+<query>
+	<id>148003-pl</id>
+	<title>przepisywanie opiatów lekarz </title>
+</query>
+<query>
+	<id>148004-pl</id>
+	<title>dlaczego lekarze niechętnie przepisują opiaty?</title>
+</query>
+<query>
+	<id>148005-pl</id>
+	<title>dlaczego trudno jest otrzymać leki przeciwbólowe?</title>
+</query>
+<query>
+	<id>148006-pl</id>
+	<title>dlaczego lekarze niechętnie przepisują leki przeciwbólowe</title>
+</query>
+<query>
+	<id>149001-pl</id>
+	<title>zmiana widzenia zamazana plama ryzyka objawy </title>
+</query>
+<query>
+	<id>149002-pl</id>
+	<title>ból głowy i zaburzenia widzenia</title>
+</query>
+<query>
+	<id>149003-pl</id>
+	<title>oko rozmazana plama łzy</title>
+</query>
+<query>
+	<id>149004-pl</id>
+	<title>objawy migreny</title>
+</query>
+<query>
+	<id>149005-pl</id>
+	<title>nagle Zamazana plama w widzeniu od łez </title>
+</query>
+<query>
+	<id>149006-pl</id>
+	<title>co powoduje zamazaną plamę w widzeniu poniżej centrum ostrości, wydłużona plama, w rodzinie historia zachorowań na zwyrodnienie mięśni </title>
+</query>
+<query>
+	<id>150001-pl</id>
+	<title>bolesny wzwód po cewnikowaniu cewnikiem Foley'a pogorszenie</title>
+</query>
+<query>
+	<id>150002-pl</id>
+	<title>bolesny wzwód po cewnikowaniu</title>
+</query>
+<query>
+	<id>150003-pl</id>
+	<title>obrażenie od cewnika Foley'a </title>
+</query>
+<query>
+	<id>150004-pl</id>
+	<title>ból od obrażeń cewnikiem Foley'a występuje tylko, gdy penis jest we wzwodzie</title>
+</query>
+<query>
+	<id>150005-pl</id>
+	<title>bolesne erekcje miesiąc po cewnikowaniu cewnikiem Foley'a</title>
+</query>
+<query>
+	<id>150006-pl</id>
+	<title>co powoduje bolesne erekcje po cewnikowaniu cewnikiem Foley'a</title>
+</query>
+</queries>

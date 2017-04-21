@@ -1,0 +1,1202 @@
+<queries>
+<query>
+	<id>101001-hu</id>
+	<title>lágyéksérv helyreállítás laparoszkópiás háló előnyök kockázatok</title>
+</query>
+<query>
+	<id>101002-hu</id>
+	<title>lágyéksérv laparoszkópiás háló műtét</title>
+</query>
+<query>
+	<id>101003-hu</id>
+	<title>lágyéksérv siker arány</title>
+</query>
+<query>
+	<id>101004-hu</id>
+	<title>lágyéksérv műtét vagy műtéti "komplikációk"</title>
+</query>
+<query>
+	<id>101005-hu</id>
+	<title>lágyéksérv laparoszkópiás hálóval műtétek áttekintése</title>
+</query>
+<query>
+	<id>101006-hu</id>
+	<title>lágyéksérv műtét történet, biztonságos? </title>
+</query>
+<query>
+	<id>102001-hu</id>
+	<title>anális kinövés eltávolítás opciók </title>
+</query>
+<query>
+	<id>102002-hu</id>
+	<title>anális bőrfüggelék eltávolítás fájdalom</title>
+</query>
+<query>
+	<id>102003-hu</id>
+	<title>bőrfüggelék eltávolítás</title>
+</query>
+<query>
+	<id>102004-hu</id>
+	<title>anális" bőrfüggelékek eltávolítás or kezelések "gyógyulás</title>
+</query>
+<query>
+	<id>102005-hu</id>
+	<title>szükségem van altatásra anális bőrfüggelék eltávolításához?</title>
+</query>
+<query>
+	<id>102006-hu</id>
+	<title>biztonságos, ha az anális bőrfüggelékeket az orvos lidokainnal eltávolítja?</title>
+</query>
+<query>
+	<id>103001-hu</id>
+	<title>fejfájás enyhülése véradással</title>
+</query>
+<query>
+	<id>103002-hu</id>
+	<title>magas vas fejfájás</title>
+</query>
+<query>
+	<id>103003-hu</id>
+	<title>véradás fejfájás csökkenés</title>
+</query>
+<query>
+	<id>103004-hu</id>
+	<title>túl sok vér or "magas vérnyomás" által okozott fejfájás</title>
+</query>
+<query>
+	<id>103005-hu</id>
+	<title>csak vérveszteséggel elmúló fejfájás</title>
+</query>
+<query>
+	<id>103006-hu</id>
+	<title>ami erős fejfájást okoz a koponyaalapnál, véradással elmúlik </title>
+</query>
+<query>
+	<id>104001-hu</id>
+	<title>csillapíthatatlan köhögés fertőzést követő lefekvés</title>
+</query>
+<query>
+	<id>104002-hu</id>
+	<title>köhögés lefekvés</title>
+</query>
+<query>
+	<id>104003-hu</id>
+	<title>lefekszik köhög</title>
+</query>
+<query>
+	<id>104004-hu</id>
+	<title>"lefekvés" or alvás okozta heves "köhögés"</title>
+</query>
+<query>
+	<id>104005-hu</id>
+	<title>kaparás, fájdalmas köhögés, amikor lefekszem </title>
+</query>
+<query>
+	<id>104006-hu</id>
+	<title>fertőzés orfolyással, mellkasi fájdalommal és köhögéssel - lehet hogy nem tudok tőle aludni?</title>
+</query>
+<query>
+	<id>105001-hu</id>
+	<title>magas vízbevitel folyamatos szomjúság okok</title>
+</query>
+<query>
+	<id>105002-hu</id>
+	<title>hatások ivás túl sok víz</title>
+</query>
+<query>
+	<id>105003-hu</id>
+	<title>diabetes</title>
+</query>
+<query>
+	<id>105004-hu</id>
+	<title>vízmérgezés tünetek</title>
+</query>
+<query>
+	<id>105005-hu</id>
+	<title>naponta mennyi vizet ihatok biztonsággal</title>
+</query>
+<query>
+	<id>105006-hu</id>
+	<title>lehet káros, ha túl sok vizet fogyasztunk?</title>
+</query>
+<query>
+	<id>106001-hu</id>
+	<title>letargia álmatlanság vitamin kiegészítők kockázatok</title>
+</query>
+<query>
+	<id>106002-hu</id>
+	<title>természetes kiegészítő energia ébredés</title>
+</query>
+<query>
+	<id>106003-hu</id>
+	<title>5 Óra Energia alternatíva</title>
+</query>
+<query>
+	<id>106004-hu</id>
+	<title>élethosszig tartó álmatlanság természetes gyógymódjai</title>
+</query>
+<query>
+	<id>106005-hu</id>
+	<title>természetes kiegészítő, amely úgy működik, mint az 5 Óra Energia</title>
+</query>
+<query>
+	<id>106006-hu</id>
+	<title>természetes kiegészítő a szorongás enyhítésére</title>
+</query>
+<query>
+	<id>107001-hu</id>
+	<title>rendszertelen havi vérzés vér felköhögése</title>
+</query>
+<query>
+	<id>107002-hu</id>
+	<title>sötét vér felköhögése</title>
+</query>
+<query>
+	<id>107003-hu</id>
+	<title>menstruáció köhögés</title>
+</query>
+<query>
+	<id>107004-hu</id>
+	<title>menstruáció or havi vérzés okozza a vér felköhögését</title>
+</query>
+<query>
+	<id>107005-hu</id>
+	<title>vér felköhögése CSAK menstruáció alatt</title>
+</query>
+<query>
+	<id>107006-hu</id>
+	<title>vér felköhögése menstruáció alatt, abortusz okozhatja?</title>
+</query>
+<query>
+	<id>108001-hu</id>
+	<title>pajzsmirigy alulműködés lassú anyagcsere gyógyszerezési alternatívák</title>
+</query>
+<query>
+	<id>108002-hu</id>
+	<title>depresszió pajzsmirigy gyógyszerezés</title>
+</query>
+<query>
+	<id>108003-hu</id>
+	<title>lassú anyagcsere okok</title>
+</query>
+<query>
+	<id>108004-hu</id>
+	<title>pajzsmirigy probléma or betegség okok "súlygyarapodás" or elhízás anyagcsere </title>
+</query>
+<query>
+	<id>108005-hu</id>
+	<title>pajzsmirigy gyógyszer fiataloknak</title>
+</query>
+<query>
+	<id>108006-hu</id>
+	<title>pajzsmirigy probléma miatti alacsony anyagcsere - milyen gyógyszert szedhetek?</title>
+</query>
+<query>
+	<id>109001-hu</id>
+	<title>fehér pattanásszerűség, dialízises beteg</title>
+</query>
+<query>
+	<id>109002-hu</id>
+	<title>kemény fehér kinövés szem mellett</title>
+</query>
+<query>
+	<id>109003-hu</id>
+	<title>bőr rendellenességek</title>
+</query>
+<query>
+	<id>109004-hu</id>
+	<title>kemény fehér pattanás arcon</title>
+</query>
+<query>
+	<id>109005-hu</id>
+	<title>fehér pattanásszerű pötty, ami nem pattan ki és nem puha</title>
+</query>
+<query>
+	<id>109006-hu</id>
+	<title>szem melletti kis pattanás, peritoneális dialízisen</title>
+</query>
+<query>
+	<id>110001-hu</id>
+	<title>súlyos fibromyalgia nehezen kezelhető kezelési opció</title>
+</query>
+<query>
+	<id>110002-hu</id>
+	<title>fibromyalgia fájdalom gyógyszerezés</title>
+</query>
+<query>
+	<id>110003-hu</id>
+	<title>térd csípő váll nyak fájdalom </title>
+</query>
+<query>
+	<id>110004-hu</id>
+	<title>fájdalomcsillapítás fibromyalgia esetén</title>
+</query>
+<query>
+	<id>110005-hu</id>
+	<title>nem szűnő fájdalom enyhítése ópiumszármazékok nélkül </title>
+</query>
+<query>
+	<id>110006-hu</id>
+	<title>hogyan enyhíthető a fibromyalgia miatti fájdalom, természetes gyógymódok</title>
+</query>
+<query>
+	<id>111001-hu</id>
+	<title>pajzsmirigy Roham Jelek tünetek mikor kell cselekedni</title>
+</query>
+<query>
+	<id>111002-hu</id>
+	<title>pajzsmirigy szívdobogás szorongás vészhelyzet</title>
+</query>
+<query>
+	<id>111003-hu</id>
+	<title>pajzsmirigy roham </title>
+</query>
+<query>
+	<id>111004-hu</id>
+	<title>TSH or pajzsmirigy or "pajzsmirigy roham" életveszélyes or "életveszélyes" or halálos or vészhelyzet</title>
+</query>
+<query>
+	<id>111005-hu</id>
+	<title>TSH 0,04 kórházba kell menni?</title>
+</query>
+<query>
+	<id>111006-hu</id>
+	<title>pajzsmirigy problémák - emelkedett nyugalmi pulzus, szívdobogás, mellkasi remegés, and testi fájdalom, forduljak endokrinológushoz?</title>
+</query>
+<query>
+	<id>112001-hu</id>
+	<title>szerv Donor tények kontra mítosz</title>
+</query>
+<query>
+	<id>112002-hu</id>
+	<title>nem fognak-e kezelni az orvosok, ha szerv donor vagy</title>
+</query>
+<query>
+	<id>112003-hu</id>
+	<title>szerv donor kockázatok</title>
+</query>
+<query>
+	<id>112004-hu</id>
+	<title>"szervdonorság" veszélyei or kockázatai</title>
+</query>
+<query>
+	<id>112005-hu</id>
+	<title>mítosz, hogy az orvosok or sebészek kevesebbet tesznek, hogy megmentsék az életedet, ha szervdonor vagy?</title>
+</query>
+<query>
+	<id>112006-hu</id>
+	<title>azt akarják az orvosok, hogy műtét közben meghalj, ha szerv donor vagy?</title>
+</query>
+<query>
+	<id>113001-hu</id>
+	<title>hasi fájdalom evés után felpuffadt felfúvódott vér a székletben</title>
+</query>
+<query>
+	<id>113002-hu</id>
+	<title>utazás hasmenés fájdalom kezelés</title>
+</query>
+<query>
+	<id>113003-hu</id>
+	<title>megszűnt bélmozgás gyomor felső rész fájdalom</title>
+</query>
+<query>
+	<id>113004-hu</id>
+	<title>puffadásos felfúvódás okai lágy véres széklet</title>
+</query>
+<query>
+	<id>113005-hu</id>
+	<title>nagymértékben felpuffadt, felfúvódott, a székletem gyakran nagyon lágy, kis élénkpiros vér van benne evés után</title>
+</query>
+<query>
+	<id>113006-hu</id>
+	<title>mi okoz súlyos hasi fájdalmat, amikor eszem (gastrointestinalis diszkomfort előzmény) </title>
+</query>
+<query>
+	<id>114001-hu</id>
+	<title>ficam boka nincs fájdalom enyhe zúzódás gyógyulási idő</title>
+</query>
+<query>
+	<id>114002-hu</id>
+	<title>kifordult boka felépülési idő lapidus bunionektómia után</title>
+</query>
+<query>
+	<id>114003-hu</id>
+	<title>kifordult boka gyógyulási idő </title>
+</query>
+<query>
+	<id>114004-hu</id>
+	<title>kifordult boka merev járócsizma gyógyulási idő</title>
+</query>
+<query>
+	<id>114005-hu</id>
+	<title>kifordult boka és lapidus bunionektómia felépülési idő</title>
+</query>
+<query>
+	<id>114006-hu</id>
+	<title>kifordult boka mennyi idő alatt jön helyre</title>
+</query>
+<query>
+	<id>115001-hu</id>
+	<title>Bell-szindróma jelek tünetek okok</title>
+</query>
+<query>
+	<id>115002-hu</id>
+	<title>hogy kaphatunk herpeszt</title>
+</query>
+<query>
+	<id>115003-hu</id>
+	<title>herpesz terjesztése</title>
+</query>
+<query>
+	<id>115004-hu</id>
+	<title>el lehet kapni a herpeszt szexuális érintkezés nélkül?</title>
+</query>
+<query>
+	<id>115005-hu</id>
+	<title>Bell-szindrómára herpesz gyógyszert kaptam, de nincs herpeszem</title>
+</query>
+<query>
+	<id>115006-hu</id>
+	<title>a Bell-szindróma azt jelenti, hogy herpeszem van?</title>
+</query>
+<query>
+	<id>116001-hu</id>
+	<title>anális vérzés kockázatok okok</title>
+</query>
+<query>
+	<id>116002-hu</id>
+	<title>bacteraemiás anus hasíték</title>
+</query>
+<query>
+	<id>116003-hu</id>
+	<title>anus vérzés kettes szám</title>
+</query>
+<query>
+	<id>116004-hu</id>
+	<title>bacteraemiás or bacteremiás anus hasítéka miatt</title>
+</query>
+<query>
+	<id>116005-hu</id>
+	<title>hogyan alakul ki bacteremia az anus megtörlésekor </title>
+</query>
+<query>
+	<id>116006-hu</id>
+	<title>lehet bacteremiát kapni, ha megtörléskor vérzik az anus?</title>
+</query>
+<query>
+	<id>117001-hu</id>
+	<title>tylenol megfázás benylin extra erős kombó kockázatok</title>
+</query>
+<query>
+	<id>117002-hu</id>
+	<title>Benylin és Tylenol együtt</title>
+</query>
+<query>
+	<id>117003-hu</id>
+	<title>orvosok közelemben</title>
+</query>
+<query>
+	<id>117004-hu</id>
+	<title>gyógyszerek keverése "tylenol" megfázás és influenza benylin extra erős</title>
+</query>
+<query>
+	<id>117005-hu</id>
+	<title>szedhetek megfázásra Tylenolt és Benylint egyszerre?</title>
+</query>
+<query>
+	<id>117006-hu</id>
+	<title>lehet megfázásra Tylenolt és Benylint egyszerre szedni?</title>
+</query>
+<query>
+	<id>118001-hu</id>
+	<title>akut rekesz szindróma kezelési lehetőségek</title>
+</query>
+<query>
+	<id>118002-hu</id>
+	<title>rekesz szindróma kezelés nem műtét</title>
+</query>
+<query>
+	<id>118003-hu</id>
+	<title>akut rekesz szindróma biztosítás</title>
+</query>
+<query>
+	<id>118004-hu</id>
+	<title>"akut rekesz" szindróma kezelések</title>
+</query>
+<query>
+	<id>118005-hu</id>
+	<title>oxikodonnál erősebb fájdalomcsillapítók</title>
+</query>
+<query>
+	<id>118006-hu</id>
+	<title>hogyan fixálható az akut rekesz szindróma műtét nélkül</title>
+</query>
+<query>
+	<id>119001-hu</id>
+	<title>anabolikus szteroidok használata izomsorvadásos betegeknél</title>
+</query>
+<query>
+	<id>119002-hu</id>
+	<title>izomsorvadás anabolikus szteroidok</title>
+</query>
+<query>
+	<id>119003-hu</id>
+	<title>izomsorvadás szteroid</title>
+</query>
+<query>
+	<id>119004-hu</id>
+	<title>dystrophia or atrophia "anabolikus" szteroidok</title>
+</query>
+<query>
+	<id>119005-hu</id>
+	<title>az izomsorvadásban és atrófiákban szenvedő betegeknek miért nem adnak valamit az izmok elgyengülése ellen, például anabolikus szteroidokat</title>
+</query>
+<query>
+	<id>119006-hu</id>
+	<title>az izomsorvadásos betegeknek miért nem adnak anabolikus szteroidokat?</title>
+</query>
+<query>
+	<id>120001-hu</id>
+	<title>hepatitis B szűrés vérvizsgálat információ fertőzés</title>
+</query>
+<query>
+	<id>120002-hu</id>
+	<title>hepatitis b vérvizsgálat hiba</title>
+</query>
+<query>
+	<id>120003-hu</id>
+	<title>vérvizsgálat hepatitis b reaktív</title>
+</query>
+<query>
+	<id>120004-hu</id>
+	<title>a megfázás befolyásolja a "vérvizsgálatot"</title>
+</query>
+<query>
+	<id>120005-hu</id>
+	<title>a megfázás megváltoztathatja a hep b teszt eredményét?</title>
+</query>
+<query>
+	<id>120006-hu</id>
+	<title>lehet megfázástól hepatitis b vírust kapni (reaktív vérvizsgálat) </title>
+</query>
+<query>
+	<id>121001-hu</id>
+	<title>lábujj zsibbadás okok and felépülési idő</title>
+</query>
+<query>
+	<id>121002-hu</id>
+	<title>elzsibbadt lábujj csizma viselése után</title>
+</query>
+<query>
+	<id>121003-hu</id>
+	<title>törött lábujj</title>
+</query>
+<query>
+	<id>121004-hu</id>
+	<title>cipőviselés zsibbadást hólyagot okoz veszélyes </title>
+</query>
+<query>
+	<id>121005-hu</id>
+	<title>a bakancstól kinövések, hólyagok lesznek rajtam, a kislábujjamon meg viaszszerű érzet</title>
+</query>
+<query>
+	<id>121006-hu</id>
+	<title>mi okozza a kislábujj zsibbadását (szűk cipő) </title>
+</query>
+<query>
+	<id>122001-hu</id>
+	<title>hasi fájdalom bal oldali hányással enyhül </title>
+</query>
+<query>
+	<id>122002-hu</id>
+	<title>gyermek hasi fájdalom hányás többször</title>
+</query>
+<query>
+	<id>122003-hu</id>
+	<title>csecsemő hasi fájdalom hányás</title>
+</query>
+<query>
+	<id>122004-hu</id>
+	<title>hasi fájdalom okai gyerekeknél</title>
+</query>
+<query>
+	<id>122005-hu</id>
+	<title>5 évesek hasi fájdalom orvosok elmulasztják?</title>
+</query>
+<query>
+	<id>122006-hu</id>
+	<title>hasi fájdalom, hányás, köldöktáji fájdalom, kettős húgyvezeték</title>
+</query>
+<query>
+	<id>123001-hu</id>
+	<title>effexor mellékhatások</title>
+</query>
+<query>
+	<id>123002-hu</id>
+	<title>effexor mellékhatás egyensúly</title>
+</query>
+<query>
+	<id>123003-hu</id>
+	<title>effexor mellékhatás</title>
+</query>
+<query>
+	<id>123004-hu</id>
+	<title>effexor mellékhatások</title>
+</query>
+<query>
+	<id>123005-hu</id>
+	<title>mi okoz szédülést Effexor mellékhatások</title>
+</query>
+<query>
+	<id>123006-hu</id>
+	<title>mi az SNRI gyógyszerek mellékhatása, szédülés</title>
+</query>
+<query>
+	<id>124001-hu</id>
+	<title>Alzheimer-kór Információk</title>
+</query>
+<query>
+	<id>124002-hu</id>
+	<title>hogyan okoz halált az Alzheimer-kór</title>
+</query>
+<query>
+	<id>124003-hu</id>
+	<title>Alzheimer halálok</title>
+</query>
+<query>
+	<id>124004-hu</id>
+	<title>részletezés: hogyan okoz halált az Alzheimer-kór</title>
+</query>
+<query>
+	<id>124005-hu</id>
+	<title>Alzheimer-kór mint halálok magyarázata</title>
+</query>
+<query>
+	<id>124006-hu</id>
+	<title>mitől hal meg az ember, ha Alzheimer-kórja van?</title>
+</query>
+<query>
+	<id>125001-hu</id>
+	<title>thyreoidectomia súlyvesztés kompenzálására</title>
+</query>
+<query>
+	<id>125002-hu</id>
+	<title>hemithyreoidectomia súlyvesztés</title>
+</query>
+<query>
+	<id>125003-hu</id>
+	<title>pajzsmirigy eltávolítás súlyvesztés</title>
+</query>
+<query>
+	<id>125004-hu</id>
+	<title>pajzsmirigy okozhat súlyvesztést</title>
+</query>
+<query>
+	<id>125005-hu</id>
+	<title>eltávolították a pajzsmirigy jobb lebenyét, mostanra egy hónap alatt majd 4 kg fogyás</title>
+</query>
+<query>
+	<id>125006-hu</id>
+	<title>pajzsmirigy eltávolítás súlyvesztést okoz? </title>
+</query>
+<query>
+	<id>126001-hu</id>
+	<title>női zsibbadás kezek lábujjak fáradtság</title>
+</query>
+<query>
+	<id>126002-hu</id>
+	<title>fáradtság egyensúlyvesztés zsibbadás erőtlenség szívdobogás okok</title>
+</query>
+<query>
+	<id>126003-hu</id>
+	<title>szív- és érrendszeri problémák</title>
+</query>
+<query>
+	<id>126004-hu</id>
+	<title>szív- és érrendszeri betegség tünetei</title>
+</query>
+<query>
+	<id>126005-hu</id>
+	<title>furcsa tünetek, amiket az orvos nem tud diagnosztizálni? alternatív orvosok?</title>
+</query>
+<query>
+	<id>126006-hu</id>
+	<title>mi okoz kéz- és lábujj zsibbadást pihenés közben, légszomjat, fáradtságot, egyensúlyvesztést, izomrángást? Fejletlen tüdő születéskor</title>
+</query>
+<query>
+	<id>127001-hu</id>
+	<title>tüdőgyulladás kockázatok aggodalmak kezelési opciók</title>
+</query>
+<query>
+	<id>127002-hu</id>
+	<title>kiújuló tüdőgyulladás okai</title>
+</query>
+<query>
+	<id>127003-hu</id>
+	<title>rendszeres tüdőgyulladás</title>
+</query>
+<query>
+	<id>127004-hu</id>
+	<title>kiújuló tüdőgyulladás okai</title>
+</query>
+<query>
+	<id>127005-hu</id>
+	<title>tüdőgyulladás 3-szor egy éven belül. Aggódnom kellene?</title>
+</query>
+<query>
+	<id>127006-hu</id>
+	<title>kiújuló tüdőgyulladás, ki gyógyítja meg</title>
+</query>
+<query>
+	<id>128001-hu</id>
+	<title>növekedés értesülés szteroidok diéta vitaminok</title>
+</query>
+<query>
+	<id>128002-hu</id>
+	<title>jobb koncentráció mononukleózis után</title>
+</query>
+<query>
+	<id>128003-hu</id>
+	<title>mentális teljesítmény tényezők</title>
+</query>
+<query>
+	<id>128004-hu</id>
+	<title>a "mononukleózis" eszesít</title>
+</query>
+<query>
+	<id>128005-hu</id>
+	<title>miért lett jobb a tanulmányi eredményem mono után?</title>
+</query>
+<query>
+	<id>128006-hu</id>
+	<title>segítheti a mono fertőzés a tanulmányi képességeket (diéta, kalóriabevitel korlátozása, szteroidok, szorongás hiánya) </title>
+</query>
+<query>
+	<id>129001-hu</id>
+	<title>a só kívánása növeli a szomjúságot</title>
+</query>
+<query>
+	<id>129002-hu</id>
+	<title>depresszió and hasgörcs</title>
+</query>
+<query>
+	<id>129003-hu</id>
+	<title>só kívánása</title>
+</query>
+<query>
+	<id>129004-hu</id>
+	<title>Tourette szindróma túl sok alvás só kívánása </title>
+</query>
+<query>
+	<id>129005-hu</id>
+	<title>só iránti sóvárgás", AND "teljes test görcse", AND "12 óra alvás kell", AND "képtelen a testhőmérsékletet fenntartani </title>
+</query>
+<query>
+	<id>129006-hu</id>
+	<title>mi okozza a teljes test görcseit</title>
+</query>
+<query>
+	<id>130001-hu</id>
+	<title>deréktáji fájdalom vér az ondóban here fájdalom</title>
+</query>
+<query>
+	<id>130002-hu</id>
+	<title>vér az ondóban</title>
+</query>
+<query>
+	<id>130003-hu</id>
+	<title>hát trauma here</title>
+</query>
+<query>
+	<id>130004-hu</id>
+	<title>metokarbamol mellékhatások</title>
+</query>
+<query>
+	<id>130005-hu</id>
+	<title>véres ondó, duzzadt here and fájós hát?</title>
+</query>
+<query>
+	<id>130006-hu</id>
+	<title>jobboldali alsó testtáji fájdalom okai, duzzadt here, fájdalom az ondóban</title>
+</query>
+<query>
+	<id>131001-hu</id>
+	<title>biopszia HSV jóindulatú pénisz bőr enyhe infiltráció magyarázat</title>
+</query>
+<query>
+	<id>131002-hu</id>
+	<title>pénisz limfocitás infiltráció markáns nukleáris préseléses artefaktum</title>
+</query>
+<query>
+	<id>131003-hu</id>
+	<title>enyhe limfocitás infiltrációt mutató jóindulatú pénisz bőr markáns nukleáris préseléses artefaktummal</title>
+</query>
+<query>
+	<id>131004-hu</id>
+	<title>limfocitás infiltráció</title>
+</query>
+<query>
+	<id>131005-hu</id>
+	<title>mit jelent az, hogy enyhe limfocitás infiltrációt mutató jóindulatú pénisz bőr markáns nukleáris préseléses artefaktummal? </title>
+</query>
+<query>
+	<id>131006-hu</id>
+	<title>bőr biopszia esetén mit jelent az, hogy 'enyhe limfocitás infiltrációt mutató jóindulatú pénisz bőr markáns nukleáris préseléses artefaktummal'</title>
+</query>
+<query>
+	<id>132001-hu</id>
+	<title>szívburokgyulladás kockázati tényező kezelési opciók</title>
+</query>
+<query>
+	<id>132002-hu</id>
+	<title>szívburokgyulladás fájdalomcsillapítás IV drogfogyasztó</title>
+</query>
+<query>
+	<id>132003-hu</id>
+	<title>nem addiktív fájdalomcsillapító</title>
+</query>
+<query>
+	<id>132004-hu</id>
+	<title>elalvást segítő természetes gyógymódok</title>
+</query>
+<query>
+	<id>132005-hu</id>
+	<title>hogyan minimalizálható otthon a mellkasi, szívtájéki and hátfájdalom?</title>
+</query>
+<query>
+	<id>132006-hu</id>
+	<title>természetes gyógymódok szívburokgyulladásra</title>
+</query>
+<query>
+	<id>133001-hu</id>
+	<title>hányinger hányás IBS magyarázat véres széklet</title>
+</query>
+<query>
+	<id>133002-hu</id>
+	<title>gyomorfájás, görcs, hányinger, hányás, hasmenés clonazepam hydroxyzine pamoate ranitidine </title>
+</query>
+<query>
+	<id>133003-hu</id>
+	<title>gasztroenterológus szaktekintélyek</title>
+</query>
+<query>
+	<id>133004-hu</id>
+	<title>IBS tünetek</title>
+</query>
+<query>
+	<id>133005-hu</id>
+	<title>IBS-nél kellemetlenebb tünetek, de az orvos szerint nem</title>
+</query>
+<query>
+	<id>133006-hu</id>
+	<title>mi okoz gyomorfájást és görcsöket, hányingert, hányást, hasmenést, kapcsolódik-e az IBS-hez vagy valami máshoz? </title>
+</query>
+<query>
+	<id>134001-hu</id>
+	<title>alkohol azonnali forró fejfájás hányinger új</title>
+</query>
+<query>
+	<id>134002-hu</id>
+	<title>alkohol hőmérséklet fejfájás hányinger új roham</title>
+</query>
+<query>
+	<id>134003-hu</id>
+	<title>alkohol fejfájás hányinger</title>
+</query>
+<query>
+	<id>134004-hu</id>
+	<title>alkoholfogyasztást követően azonnal rosszul érzi magát</title>
+</query>
+<query>
+	<id>134005-hu</id>
+	<title>mindig rosszul vagyok, ha alkoholt iszom</title>
+</query>
+<query>
+	<id>134006-hu</id>
+	<title>rosszullét azonnal változó alkoholfogyasztás 21 éves korban</title>
+</query>
+<query>
+	<id>135001-hu</id>
+	<title>női magas vérnyomás hasogató fejfájás kettős látás okok</title>
+</query>
+<query>
+	<id>135002-hu</id>
+	<title>magas vérnyomás fiatal nő okok and kezelés</title>
+</query>
+<query>
+	<id>135003-hu</id>
+	<title>magas vérnyomás </title>
+</query>
+<query>
+	<id>135004-hu</id>
+	<title>magas vérnyomás tünetek</title>
+</query>
+<query>
+	<id>135005-hu</id>
+	<title>magas vérnyomást orvos megszüntette, mi a következő? </title>
+</query>
+<query>
+	<id>135006-hu</id>
+	<title>hogyan kell a magas vérnyomás tüneteit megszüntetni, gyógyszerezés, vizsgálatok</title>
+</query>
+<query>
+	<id>136001-hu</id>
+	<title>súlyos magas vérnyomás megfelelő kezelés</title>
+</query>
+<query>
+	<id>136002-hu</id>
+	<title>nagyon magas vérnyomás gyors csökkentése</title>
+</query>
+<query>
+	<id>136003-hu</id>
+	<title>hirtelen esés magas vér magas nyomás </title>
+</query>
+<query>
+	<id>136004-hu</id>
+	<title>a vérnyomás normál szintre történő túl gyors csökkentésének veszélyei</title>
+</query>
+<query>
+	<id>136005-hu</id>
+	<title>miért PO és nem IV gyógyszer? Mit számít, ha a vérnyomás normálisabb intervallumba esik?</title>
+</query>
+<query>
+	<id>136006-hu</id>
+	<title>mi történik, ha gyorsan csökkentjük a vérnyomást stroke kórtörténetű betegnél? </title>
+</query>
+<query>
+	<id>137001-hu</id>
+	<title>gyermek letargia magas CRP duzzadt nyirokcsomók fájdalom evés után</title>
+</query>
+<query>
+	<id>137002-hu</id>
+	<title>gyermek magas TSH alacsony vas kiújuló fertőzések</title>
+</query>
+<query>
+	<id>137003-hu</id>
+	<title>duzzadt nyirokmirigyek puffadás alacsony energiaszintek hasi fájdalom </title>
+</query>
+<query>
+	<id>137004-hu</id>
+	<title>alacsony cukor or vasszint okai </title>
+</query>
+<query>
+	<id>137005-hu</id>
+	<title>letargikus, duzzadt nyirokmirigyek, puffadás evés után, 5 éves?</title>
+</query>
+<query>
+	<id>137006-hu</id>
+	<title>5 éves lány, állandó letargia, duzzadt nyirokmirigyek, gyomorfájdalom, csökkent étvágy, puffadás evés után, csalánkiütés. Mi okozza?</title>
+</query>
+<query>
+	<id>138001-hu</id>
+	<title>fiatal nő folyamatos mellkasi fájdalommal tiszta mellkasi röntgen váll jobb kar </title>
+</query>
+<query>
+	<id>138002-hu</id>
+	<title>súlyos mellkasi fájdalom fiatal nő okok</title>
+</query>
+<query>
+	<id>138003-hu</id>
+	<title>köhögés mellkasi fájdalom</title>
+</query>
+<query>
+	<id>138004-hu</id>
+	<title>pariet or rabeprazol mellékhatások</title>
+</query>
+<query>
+	<id>138005-hu</id>
+	<title>továbbra is állandó mellkasi fájdalom pariet szedését követően is </title>
+</query>
+<query>
+	<id>138006-hu</id>
+	<title>mellkasi fájdalom, ausztrál PPI gyógyszer, szívközeli fájdalom</title>
+</query>
+<query>
+	<id>139001-hu</id>
+	<title>máj vérvizsgálatok magyarázat</title>
+</query>
+<query>
+	<id>139002-hu</id>
+	<title>ALT enyhe emelkedésének okai</title>
+</query>
+<query>
+	<id>139003-hu</id>
+	<title>ALT eredmény elemzés</title>
+</query>
+<query>
+	<id>139004-hu</id>
+	<title>magas ALT értékek, melyek visszafordíthatatlan károsodást okoznak</title>
+</query>
+<query>
+	<id>139005-hu</id>
+	<title>ALT 112 súlyosság</title>
+</query>
+<query>
+	<id>139006-hu</id>
+	<title>magas ALT szintek (112), kor 28 év, alkohol fogyasztó - abba kell hagynom az ivást?</title>
+</query>
+<query>
+	<id>140001-hu</id>
+	<title>vér az ondóban prosztata trauma </title>
+</query>
+<query>
+	<id>140002-hu</id>
+	<title>vér az ondóban kerékpározás</title>
+</query>
+<query>
+	<id>140003-hu</id>
+	<title>vér az ondóban kerékpártól </title>
+</query>
+<query>
+	<id>140004-hu</id>
+	<title>ondóban lévő vér okai</title>
+</query>
+<query>
+	<id>140005-hu</id>
+	<title>vér az ondóban kb. egy hete, és nincs más tünet</title>
+</query>
+<query>
+	<id>140006-hu</id>
+	<title>mitől van vér az ondóban, 1 hete fordul elő</title>
+</query>
+<query>
+	<id>141001-hu</id>
+	<title>orrcsepegés kezelés opciók</title>
+</query>
+<query>
+	<id>141002-hu</id>
+	<title>krónikus orrdugulás kezelés</title>
+</query>
+<query>
+	<id>141003-hu</id>
+	<title>eldugult orr</title>
+</query>
+<query>
+	<id>141004-hu</id>
+	<title>hogy szabaduljunk meg az orrcsepegéstől or "orrfolyástól"</title>
+</query>
+<query>
+	<id>141005-hu</id>
+	<title>folyamatos orrcsepegés 2 éve</title>
+</query>
+<query>
+	<id>141006-hu</id>
+	<title>hogy szabaduljunk meg az orrcsepegéstől </title>
+</query>
+<query>
+	<id>142001-hu</id>
+	<title>posztmenopauzális emlőbimbó vérzés</title>
+</query>
+<query>
+	<id>142002-hu</id>
+	<title>véres emlőbimbó váladékozás</title>
+</query>
+<query>
+	<id>142003-hu</id>
+	<title>emlőbimbó alvadt vér folyadék</title>
+</query>
+<query>
+	<id>142004-hu</id>
+	<title>méheltávolítás mellékhatásai emlő or emlőbimbó váladékozás hormonális egyensúly hiánya</title>
+</query>
+<query>
+	<id>142005-hu</id>
+	<title>vérzés and váladékozás a jobb emlőbimbóból kis alvadékkal, lehet jóindulatú?</title>
+</query>
+<query>
+	<id>142006-hu</id>
+	<title>mi okozhat vérzést and váladékozást a jobb mellbimbóból, bimbó piercing eltávolítás</title>
+</query>
+<query>
+	<id>143001-hu</id>
+	<title>hosszú távú PPI használat kockázatok and mellékhatások</title>
+</query>
+<query>
+	<id>143002-hu</id>
+	<title>hosszú távú omeprazol mellékhatások</title>
+</query>
+<query>
+	<id>143003-hu</id>
+	<title>omeprazol tünetek</title>
+</query>
+<query>
+	<id>143004-hu</id>
+	<title>hosszú távú PPI or Omeprazol használat veszélyei</title>
+</query>
+<query>
+	<id>143005-hu</id>
+	<title>hosszú távú PPI használat hatása?</title>
+</query>
+<query>
+	<id>143006-hu</id>
+	<title>melyek az Omeprazol hosszú távú használatának hatásai</title>
+</query>
+<query>
+	<id>144001-hu</id>
+	<title>emelkedett fehérvérsejtszám a vizeletben nincsenek fertőzéses tünetek</title>
+</query>
+<query>
+	<id>144002-hu</id>
+	<title>fehérvérsejtek a vizeletben nincs fertőzés</title>
+</query>
+<query>
+	<id>144003-hu</id>
+	<title>húgyúti fertőzés</title>
+</query>
+<query>
+	<id>144004-hu</id>
+	<title>vizeletben található fehérvérsejtek okai </title>
+</query>
+<query>
+	<id>144005-hu</id>
+	<title>mitől vannak fehérvérsejtek a vizeletben, ha nincs fertőzés?</title>
+</query>
+<query>
+	<id>144006-hu</id>
+	<title>mitől vannak fehérvérsejtek a vizeletben - 5 éves gyermek </title>
+</query>
+<query>
+	<id>145001-hu</id>
+	<title>guillain-barré szindróma betegtájékoztató betegség lefolyása</title>
+</query>
+<query>
+	<id>145002-hu</id>
+	<title>Guillain-Barré szindróma</title>
+</query>
+<query>
+	<id>145003-hu</id>
+	<title>guillain-barré szindróma</title>
+</query>
+<query>
+	<id>145004-hu</id>
+	<title>guillain-barré szindróma tünetek</title>
+</query>
+<query>
+	<id>145005-hu</id>
+	<title>mivel jár a Guillain-Barré szindróma </title>
+</query>
+<query>
+	<id>145006-hu</id>
+	<title>mik a Guillain-Barré szindróma tünetei?</title>
+</query>
+<query>
+	<id>146001-hu</id>
+	<title>duzzadt here hátfájás hányinger hányás láz</title>
+</query>
+<query>
+	<id>146002-hu</id>
+	<title>duzzadt fájós here, fájdalom, hányás </title>
+</query>
+<query>
+	<id>146003-hu</id>
+	<title>herezacskó duzzanat hátfájás hasi fájdalom hányinger lassú</title>
+</query>
+<query>
+	<id>146004-hu</id>
+	<title>vízsérv tünetei</title>
+</query>
+<query>
+	<id>146005-hu</id>
+	<title>herezacskó duzzanat, hátfájás and hasi fájdalom, vízsérv? </title>
+</query>
+<query>
+	<id>146006-hu</id>
+	<title>mi okoz hereduzzadást, hátfájást, hasi fájdalmat, hányingert, hányást - lehet vízsérv?</title>
+</query>
+<query>
+	<id>147001-hu</id>
+	<title>torokfertőzés torokgyulladás szem irritáció kezelés opciók</title>
+</query>
+<query>
+	<id>147002-hu</id>
+	<title>folyamatos torokgyulladás okok and kezelés</title>
+</query>
+<query>
+	<id>147003-hu</id>
+	<title>fej torok szem fájás</title>
+</query>
+<query>
+	<id>147004-hu</id>
+	<title>vírusos torokfertőzés tünetek</title>
+</query>
+<query>
+	<id>147005-hu</id>
+	<title>torok- and fejfájás and vörös szem, vírusos torokfertőzés? </title>
+</query>
+<query>
+	<id>147006-hu</id>
+	<title>milyen torokfájás, szem irritáció, fejfájás lehet több mint vírusos fertőzés?</title>
+</query>
+<query>
+	<id>148001-hu</id>
+	<title>gyógyszeres fájdalomcsillapítás krónikus fájdalom ópiumszármazék korlátozás magyarázat</title>
+</query>
+<query>
+	<id>148002-hu</id>
+	<title>ópiumszármazékok felíratásának esélye</title>
+</query>
+<query>
+	<id>148003-hu</id>
+	<title>ópiumszármazék felírása orvos</title>
+</query>
+<query>
+	<id>148004-hu</id>
+	<title>miért nem szívesen írnak fel az orvosok ópiumszármazékokat? </title>
+</query>
+<query>
+	<id>148005-hu</id>
+	<title>miért nehéz fájdalomcsillapítót szerezni?</title>
+</query>
+<query>
+	<id>148006-hu</id>
+	<title>miért ódzkodnak az orvosok fájdalomcsillapító gyógyszerek kiadásától</title>
+</query>
+<query>
+	<id>149001-hu</id>
+	<title>látászavar homályos folt kockázatok jelek tünetek</title>
+</query>
+<query>
+	<id>149002-hu</id>
+	<title>fejfájás and látászavarok</title>
+</query>
+<query>
+	<id>149003-hu</id>
+	<title>szem elmosódott folt könnyek</title>
+</query>
+<query>
+	<id>149004-hu</id>
+	<title>migrén tünetek</title>
+</query>
+<query>
+	<id>149005-hu</id>
+	<title>hirtelen látás elmosódás könnyek miatt</title>
+</query>
+<query>
+	<id>149006-hu</id>
+	<title>mi okoz homályos látásfoltot a fókuszközpont alatt, elnyúló folt, családi anamnézisben izom degeneráció </title>
+</query>
+<query>
+	<id>150001-hu</id>
+	<title>fájdalmas erekció foley katéter után rosszabbodik</title>
+</query>
+<query>
+	<id>150002-hu</id>
+	<title>fájdalmas erekció katéter után</title>
+</query>
+<query>
+	<id>150003-hu</id>
+	<title>foley katéter felhorzsolás</title>
+</query>
+<query>
+	<id>150004-hu</id>
+	<title>foley katéter felhorzsolás miatti fájdalom csak akkor jelentkezik, ha a pénisz merev</title>
+</query>
+<query>
+	<id>150005-hu</id>
+	<title>fájdalmas erekció Foley katéterezés után egy hónappal </title>
+</query>
+<query>
+	<id>150006-hu</id>
+	<title>mi okozza a fájdalmas erekciót foley katéterezést követően</title>
+</query>
+</queries>
