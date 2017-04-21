@@ -61,7 +61,7 @@ Evaluation measures for IRTask3: NDCG@10, BPref and RBP - in the MVE framework.
 
 ### IRTask 4: Multilingual Search 
 
-This task, similar to the corresponding one in 2016, offers parallel queries in several languages (Czech, French, Hungarian, German, Polish and Swedish). Multilingual submissions will be evaluated against each of the previous tasks - but results for the multilingual queries will be reported separately.
+This task, similar to the corresponding one in 2016, offers parallel queries in several languages (Czech, French, Hungarian, German, Polish, Spanish and Swedish). Multilingual submissions will be evaluated against IRtask1 (called IRtask4a for multilingual) and IRtask3 (called IRtask4b for multilingual) - but results for the multilingual queries will be reported separately.
 
 
 ## Registration
