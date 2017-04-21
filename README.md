@@ -16,14 +16,17 @@ More information about the tasks are given below. Also please visit the [website
 
 ## Organisation of the repository
 
-`assessments` - contains the assessments of relevance and other dimensions (e.g. understandability) for the documents
+`assessments` - contains the assessments of relevance and other dimensions (e.g. understandability) for the documents.
   
-  `-> 2016` - contains the assessments for the 2016 submissions. Note that in 2017, documents assessed (either relevant or not relevant) are to be excluded from participants submissions
+  `-> 2016` - contains the assessments for the 2016 submissions. Note that in 2017, documents assessed (either relevant or not relevant) are to be excluded from participants submissions.
   
   `-> 2017` - will contain the assessments for the 2017 submissions. 
-  
+
+`other_data` - contains other data associated with the task, e.g., lists of documents excluded from the evaluation, Pagerank scores, etc.
+
 `queries` - contains the queries to be used for the tasks. These are the 2016 queries (see sub-dir `multilingual` for the human translation of the queries in other languages). Note that we have also provided the URL of the web forum we used to initiate the information need (see `queries2016_with_url.xml` and the sub-dir `reddit-posts`). 
- 
+
+`tools` - contains a series of tools and utilities used within the task.
 
 ## Tasks Information 
 
